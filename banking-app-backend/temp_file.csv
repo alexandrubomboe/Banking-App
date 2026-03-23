@@ -1,0 +1,1165 @@
+,type,product,date,description,amount,balance
+0,Transfer,Savings,2024-07-03 14:07:48,To pocket RON mate from RON,150.0,150.0
+1,Transfer,Savings,2024-07-03 14:08:08,To pocket RON info from RON,150.0,300.0
+2,Transfer,Savings,2024-07-03 14:08:14,To pocket RON info from RON,150.0,450.0
+3,Transfer,Savings,2024-07-03 14:08:22,To pocket RON mate from RON,150.0,600.0
+4,Transfer,Savings,2024-07-18 13:56:08,Pocket Withdrawal,-150.0,450.0
+5,Transfer,Savings,2024-07-18 17:02:51,Pocket Withdrawal,-140.0,310.0
+6,Transfer,Savings,2024-07-22 10:09:03,Pocket Withdrawal,-10.0,300.0
+7,Transfer,Savings,2024-07-22 10:09:09,Pocket Withdrawal,-150.0,150.0
+8,Transfer,Savings,2024-07-26 21:23:28,Pocket Withdrawal,-100.0,50.0
+9,Transfer,Savings,2024-07-27 19:37:45,Pocket Withdrawal,-50.0,0.0
+10,Transfer,Savings,2024-09-09 22:00:50,To pocket RON iexamen from RON,300.0,300.0
+11,Transfer,Savings,2024-09-26 07:42:21,Pocket Withdrawal,-12.0,288.0
+12,Transfer,Savings,2024-10-03 10:46:14,Pocket Withdrawal,-288.0,0.0
+13,Transfer,Current,2024-06-29 13:22:40,Revolut Bank UAB,89.49,89.49
+14,Transfer,Current,2024-06-29 13:23:41,Revolut Bank UAB,-0.01,89.48
+15,Transfer,Current,2024-07-01 12:40:43,Revolut Bank UAB,370.0,459.48
+16,Card Payment,Current,2024-07-01 12:46:15,Extasy,-75.0,384.48
+17,Card Payment,Current,2024-07-01 14:09:47,Superbet,-20.0,364.48
+18,Card Payment,Current,2024-07-02 12:40:50,Restaurant Sat Boss,-14.0,350.48
+19,Transfer,Current,2024-07-03 14:05:57,Revolut Bank UAB,1900.38,2250.86
+20,Transfer,Current,2024-07-03 14:07:48,To pocket RON mate from RON,-150.0,2100.86
+21,Transfer,Current,2024-07-03 14:08:08,To pocket RON info from RON,-150.0,1950.86
+22,Transfer,Current,2024-07-03 14:08:14,To pocket RON info from RON,-150.0,1800.86
+23,Transfer,Current,2024-07-03 14:08:22,To pocket RON mate from RON,-150.0,1650.86
+24,Card Payment,Current,2024-07-03 18:01:03,5ToGo,-5.5,1645.36
+25,Card Payment,Current,2024-07-03 10:16:01,Lime,-4.21,1641.15
+26,Card Payment,Current,2024-07-03 17:32:12,Metrorex,-3.0,1638.15
+27,Card Payment,Current,2024-07-04 21:49:33,MKN Dual Modern,-27.5,1610.65
+28,Card Payment,Current,2024-07-04 20:13:32,Mega Image,-45.38,1565.27
+29,Card Payment,Current,2024-07-04 12:03:55,ZEMAN maso - uzeniny,-8.0,1557.27
+30,Card Payment,Current,2024-07-04 09:50:49,ROM SEP S.R.L.,-50.0,1507.27
+31,Card Payment,Current,2024-07-04 12:08:25,Fornetti,-6.0,1501.27
+32,Transfer,Current,2024-07-05 13:45:12,Revolut Bank UAB,55.0,1556.27
+33,Card Payment,Current,2024-07-04 15:15:21,Uber,-14.94,1541.33
+34,Card Payment,Current,2024-07-04 22:26:16,Neversea 221,-100.0,1441.33
+35,Transfer,Current,2024-07-05 20:46:59,Revolut Bank UAB,21.0,1462.33
+36,Transfer,Current,2024-07-06 04:08:35,Revolut Bank UAB,-50.0,1412.33
+37,Card Payment,Current,2024-07-04 13:05:39,CFR Călători,-5.5,1406.83
+38,Card Payment,Current,2024-07-04 14:39:59,CFR Călători,-10.5,1396.33
+39,Card Payment,Current,2024-07-05 20:43:56,MKN Dual Modern,-35.0,1361.33
+40,Card Payment,Current,2024-07-05 15:12:35,Avanti Junior Srl,-24.0,1337.33
+41,Card Payment,Current,2024-07-04 19:37:52,CT BUS,-2.5,1334.83
+42,Card Payment,Current,2024-07-05 13:41:33,McDonald's,-26.5,1308.33
+43,Transfer,Current,2024-07-06 14:59:58,To stefan caradeanu,-80.0,1228.33
+44,Card Payment,Current,2024-07-04 23:54:50,Neversea 241,-100.0,1128.33
+45,Card Payment,Current,2024-07-05 04:02:14,Profi,-23.83,1104.5
+46,Card Payment,Current,2024-07-05 20:41:55,Profi,-59.53,1044.97
+47,Transfer,Current,2024-07-07 04:02:18,Revolut Bank UAB,-30.0,1014.97
+48,Transfer,Current,2024-07-07 04:08:37,Revolut Bank UAB,-20.0,994.97
+49,Card Payment,Current,2024-07-05 22:52:07,Neversea 225,-100.0,894.97
+50,Transfer,Current,2024-07-07 19:36:37,Revolut Bank UAB,36.0,930.97
+51,Card Payment,Current,2024-07-06 18:31:46,Profi,-37.77,893.2
+52,Card Payment,Current,2024-07-06 15:28:11,Profi,-49.65,843.55
+53,Card Payment,Current,2024-07-07 16:06:39,Pizza Hut,-50.0,793.55
+54,Card Payment,Current,2024-07-07 00:05:46,Neversea 233,-70.0,723.55
+55,Card Payment,Current,2024-07-07 03:02:22,Neversea 247,-50.0,673.55
+56,Transfer,Current,2024-07-08 19:29:54,Revolut Bank UAB,-40.0,633.55
+57,Card Payment,Current,2024-07-07 20:10:49,Profi,-52.83,580.72
+58,Card Payment,Current,2024-07-07 23:23:25,MKN Dual Modern,-15.0,565.72
+59,Card Payment,Current,2024-07-07 18:45:33,One Premium Serv,-20.0,545.72
+60,Card Payment,Current,2024-07-05 23:29:31,Ana Modern,-37.0,508.72
+61,Card Payment,Current,2024-07-06 03:24:28,Ana Modern,-8.0,500.72
+62,Card Payment,Current,2024-07-08 13:26:14,McDonald's,-18.0,482.72
+63,Card Payment,Current,2024-07-08 03:08:07,Neversea 238,-30.0,452.72
+64,Card Payment,Current,2024-07-08 15:40:35,RomPetrol,-30.3,422.42
+65,Card Payment,Current,2024-07-08 13:54:45,Inmedio,-6.49,415.93
+66,Card Payment,Current,2024-07-08 13:32:02,Chopstix,-25.49,390.44
+67,Card Payment,Current,2024-07-09 15:39:50,Mega Image,-5.19,385.25
+68,Card Payment,Current,2024-07-09 22:23:03,Lime,-7.42,377.83
+69,Card Payment,Current,2024-07-09 22:23:42,Metro Food & Com,-22.0,355.83
+70,Card Payment,Current,2024-07-11 18:33:50,Profi,-22.0,333.83
+71,Card Payment,Current,2024-07-13 01:56:00,Pop events,-50.0,283.83
+72,Card Payment,Current,2024-07-12 21:49:07,Pop events,-100.0,183.83
+73,Card Payment,Current,2024-07-13 17:00:20,Darmat Partners,-11.0,172.83
+74,Card Payment,Current,2024-07-13 16:50:10,Red Kitchen Srl,-29.0,143.83
+75,Card Payment,Current,2024-07-14 22:10:40,Babylon Food Delivery Srl,-22.0,121.83
+76,Card Payment,Current,2024-07-14 22:10:22,Babylon Food Delivery Srl,-29.0,92.83
+77,Card Payment,Current,2024-07-14 22:04:51,C N Best Team Srl,-30.0,62.83
+78,Card Payment,Current,2024-07-14 23:47:48,Pop events,-50.0,12.83
+79,Card Payment,Current,2024-07-14 22:48:31,Fresh Estival Activ Srl,-6.0,6.83
+80,Transfer,Current,2024-07-18 13:56:08,Pocket Withdrawal,150.0,156.83
+81,Transfer,Current,2024-07-18 17:02:51,Pocket Withdrawal,140.0,296.83
+82,Card Payment,Current,2024-07-18 17:03:02,Flanco,-139.73,157.1
+83,Card Payment,Current,2024-07-18 14:00:47,Sp Ovf,-147.0,10.1
+84,Transfer,Current,2024-07-22 10:09:03,Pocket Withdrawal,10.0,20.1
+85,Transfer,Current,2024-07-22 10:09:09,Pocket Withdrawal,150.0,170.1
+86,Topup,Current,2024-07-22 10:12:11,Payment from MOLDOVAN MARIAELENA,250.0,420.1
+87,Transfer,Current,2024-07-22 19:39:57,Revolut Bank UAB,-3.0,417.1
+88,Card Payment,Current,2024-07-22 10:48:20,Dinu Auto Total,-400.0,17.1
+89,Transfer,Current,2024-07-26 21:23:28,Pocket Withdrawal,100.0,117.1
+90,Card Payment,Current,2024-07-26 21:23:49,Superbet,-112.25,4.85
+91,Transfer,Current,2024-07-27 19:37:45,Pocket Withdrawal,50.0,54.85
+92,Card Payment,Current,2024-07-27 23:08:20,Profi,-3.49,51.36
+93,Card Payment,Current,2024-07-27 23:10:34,Metrorex,-3.0,48.36
+94,Card Payment,Current,2024-07-30 17:41:21,MM Partners Pub,-45.0,3.36
+95,Transfer,Current,2024-08-02 20:24:05,Revolut Bank UAB,14.0,17.36
+96,Card Payment,Current,2024-08-03 21:17:44,MM Partners Pub,-13.5,3.86
+97,Transfer,Current,2024-08-04 20:52:11,Revolut Bank UAB,5.0,8.86
+98,Transfer,Current,2024-08-04 21:49:53,Revolut Bank UAB,6.0,14.86
+99,Card Payment,Current,2024-08-04 21:52:30,Altfel,-14.0,0.86
+100,Transfer,Current,2024-08-10 18:43:00,Revolut Bank UAB,26.0,26.86
+101,Card Payment,Current,2024-08-14 14:47:04,Uber,-22.7,4.16
+102,Card Payment,Current,2024-08-14 14:39:37,Imperiul Festinului,-4.0,0.16
+103,Transfer,Current,2024-08-20 22:18:21,Revolut Bank UAB,110.0,110.16
+104,Card Payment,Current,2024-08-20 22:20:22,CFR Călători,-103.5,6.66
+105,Transfer,Current,2024-08-30 17:57:53,Revolut Bank UAB,27.24,33.9
+106,Transfer,Current,2024-08-31 15:21:10,Revolut Bank UAB,-33.9,0.0
+107,Transfer,Current,2024-09-03 14:43:56,Revolut Bank UAB,5.0,5.0
+108,Transfer,Current,2024-09-03 14:48:42,Revolut Bank UAB,95.0,100.0
+109,Transfer,Current,2024-09-03 16:49:25,Revolut Bank UAB,100.0,200.0
+110,Transfer,Current,2024-09-03 16:51:46,To Bomboe Alexandru,-200.0,0.0
+111,Transfer,Current,2024-09-07 15:34:35,Revolut Bank UAB,23.0,23.0
+112,Transfer,Current,2024-09-07 15:34:40,Revolut Bank UAB,23.0,46.0
+113,Transfer,Current,2024-09-07 21:02:40,Revolut Bank UAB,-20.0,26.0
+114,Topup,Current,2024-09-07 21:03:24,Payment from VLAD COSTIN BOMBOE,10.0,36.0
+115,Transfer,Current,2024-09-09 11:48:39,Revolut Bank UAB,7.8,43.8
+116,Transfer,Current,2024-09-09 12:59:31,Revolut Bank UAB,7.0,50.8
+117,Transfer,Current,2024-09-09 12:59:46,Revolut Bank UAB,7.0,57.8
+118,Card Payment,Current,2024-09-08 02:35:23,Market Summer,-26.0,31.8
+119,Transfer,Current,2024-09-09 21:59:56,Revolut Bank UAB,808.1,839.9
+120,Transfer,Current,2024-09-09 22:00:50,To pocket RON iexamen from RON,-300.0,539.9
+121,Transfer,Current,2024-09-10 10:22:50,Revolut Bank UAB,-22.0,517.9
+122,Transfer,Current,2024-09-10 10:26:25,Revolut Bank UAB,22.0,539.9
+123,Transfer,Current,2024-09-10 11:32:25,Revolut Bank UAB,-22.0,517.9
+124,Transfer,Current,2024-09-10 11:49:56,Revolut Bank UAB,-12.0,505.9
+125,Card Payment,Current,2024-09-10 18:48:04,Carrefour,-31.86,474.04
+126,Card Payment,Current,2024-09-10 18:02:10,McDonald's,-37.0,437.04
+127,Transfer,Current,2024-09-11 09:40:58,Revolut Bank UAB,-5.0,432.04
+128,Card Payment,Current,2024-09-10 19:15:24,Uber,-17.52,414.52
+129,Card Payment,Current,2024-09-11 13:34:25,Mega Image,-7.49,407.03
+130,Card Payment,Current,2024-09-11 08:03:50,Mega Image,-29.19,377.84
+131,Transfer,Current,2024-09-12 18:42:03,Revolut Bank UAB,-0.25,377.59
+132,Topup,Current,2024-09-12 18:42:29,Apple Pay top-up by *1781,880.0,1257.59
+133,Card Payment,Current,2024-09-12 12:31:23,Mega Image,-47.0,1210.59
+134,Card Payment,Current,2024-09-12 11:32:38,Mega Image,-6.89,1203.7
+135,Transfer,Current,2024-09-13 15:28:07,Revolut Bank UAB,-60.0,1143.7
+136,Card Payment,Current,2024-09-13 14:08:40,Bolt,-5.94,1137.76
+137,Card Payment,Current,2024-09-13 08:02:15,Mega Image,-7.28,1130.48
+138,Card Payment,Current,2024-09-13 10:18:52,Mega Image,-6.49,1123.99
+139,Card Payment,Current,2024-09-13 13:39:06,Mega Image,-21.77,1102.22
+140,Card Payment,Current,2024-09-13 22:11:43,Mega Image,-7.98,1094.24
+141,Card Payment,Current,2024-09-13 16:05:20,Mega Image,-7.38,1086.86
+142,Card Payment,Current,2024-09-13 20:22:19,Integrate Lobby Sol Sr,-24.0,1062.86
+143,Card Payment,Current,2024-09-13 10:21:52,Ali Com Orient,-22.0,1040.86
+144,Card Payment,Current,2024-09-13 19:56:47,McDonald's,-21.0,1019.86
+145,Card Payment,Current,2024-09-13 23:14:50,Uber,-10.1,1009.76
+146,Card Payment,Current,2024-09-13 08:05:42,Multimat Mihalache,-14.0,995.76
+147,Card Payment,Current,2024-09-14 13:53:03,Curcubeului Market,-22.0,973.76
+148,Card Payment,Current,2024-09-14 13:43:50,eMAG,-69.99,903.77
+149,Card Payment,Current,2024-09-15 19:27:02,Uber,-13.09,
+150,Card Payment,Current,2024-09-15 09:09:57,Pizza Luca,-9.49,894.28
+151,Card Payment,Current,2024-09-15 19:35:29,Uber,-17.85,876.43
+152,Card Payment,Current,2024-09-15 19:21:15,OMV,-31.49,844.94
+153,Card Payment,Current,2024-09-16 07:29:55,Mega Image,-3.39,841.55
+154,Card Payment,Current,2024-09-16 10:09:33,Mega Image,-37.78,803.77
+155,Card Payment,Current,2024-09-16 06:15:11,MOL,-22.0,781.77
+156,Card Payment,Current,2024-09-16 19:31:05,eMAG,-84.45,697.32
+157,Transfer,Current,2024-09-18 16:50:30,Revolut Bank UAB,100.0,797.32
+158,Card Payment,Current,2024-09-17 18:07:59,Metrorex,-3.0,794.32
+159,Card Payment,Current,2024-09-17 17:17:14,Il Maestro,-8.0,786.32
+160,Card Payment,Current,2024-09-18 14:09:47,Prăvălia cu Licori,-20.0,766.32
+161,Topup,Current,2024-09-19 14:37:17,Payment from TOADER LUCIAN MOLDOVAN,100.0,866.32
+162,Card Payment,Current,2024-09-18 16:41:42,Dr.Max,-69.99,796.33
+163,Card Payment,Current,2024-09-19 12:59:09,Mega Image,-5.29,791.04
+164,Card Payment,Current,2024-09-19 12:55:02,Orient Shaorma,-25.0,766.04
+165,Card Payment,Current,2024-09-20 07:58:43,Uber,-13.73,
+166,Transfer,Current,2024-09-20 11:33:04,Revolut Bank UAB,-2.0,764.04
+167,Topup,Current,2024-09-20 11:51:32,Apple Pay top-up by *1781,300.0,1064.04
+168,Transfer,Current,2024-09-20 11:52:09,Revolut Bank UAB,-150.0,914.04
+169,Transfer,Current,2024-09-20 19:54:11,Revolut Bank UAB,-10.0,904.04
+170,Card Payment,Current,2024-09-20 11:36:38,Nova prompt,-5.0,899.04
+171,Card Payment,Current,2024-09-21 13:49:25,MM Partners Pub,-3.2,895.84
+172,Card Payment,Current,2024-09-21 17:46:25,eMAG,-688.0,207.84
+173,Card Payment,Current,2024-09-21 20:03:28,Profi,-34.2,173.64
+174,Card Payment,Current,2024-09-23 11:26:56,Mega Image,-3.99,169.65
+175,Card Payment,Current,2024-09-23 08:39:22,Mega Image,-2.99,166.66
+176,Card Payment,Current,2024-09-23 11:59:13,Mega Image,-7.0,159.66
+177,Card Payment,Current,2024-09-24 10:30:23,Mega Image,-6.79,152.87
+178,Card Payment,Current,2024-09-24 07:52:36,Cora,-4.0,148.87
+179,Transfer,Current,2024-09-26 07:42:21,Pocket Withdrawal,12.0,160.87
+180,Transfer,Current,2024-09-26 07:43:12,Revolut Bank UAB,-160.0,0.87
+181,Transfer,Current,2024-09-27 20:10:25,Revolut Bank UAB,8.0,8.87
+182,Card Payment,Current,2024-09-28 10:26:58,Metrorex,-3.0,5.87
+183,Transfer,Current,2024-10-01 07:31:51,Revolut Bank UAB,22.0,27.87
+184,Transfer,Current,2024-10-03 07:54:51,Revolut Bank UAB,16.0,43.87
+185,Transfer,Current,2024-10-03 08:21:13,Revolut Bank UAB,22.0,65.87
+186,Transfer,Current,2024-10-03 10:46:14,Pocket Withdrawal,288.0,353.87
+187,Transfer,Current,2024-10-03 10:47:17,To Razvan Mihai Pica,-250.0,103.87
+188,Topup,Current,2024-10-05 18:17:05,Apple Pay top-up by *1781,160.0,263.87
+189,Transfer,Current,2024-10-05 18:18:24,Revolut Bank UAB,-160.0,103.87
+190,Topup,Current,2024-10-06 10:10:20,Apple Pay top-up by *1781,160.0,263.87
+191,Transfer,Current,2024-10-06 10:10:36,Revolut Bank UAB,-160.0,103.87
+192,Card Payment,Current,2024-10-05 21:16:42,Altfel,-32.0,71.87
+193,Card Payment,Current,2024-10-05 19:51:33,Chopstix,-23.99,47.88
+194,Card Payment,Current,2024-10-06 16:44:09,Curcubeului Market,-22.0,25.88
+195,Card Payment,Current,2024-10-07 12:30:21,Profi,-12.88,13.0
+196,Transfer,Current,2024-10-10 08:05:58,Revolut Bank UAB,26.0,39.0
+197,Transfer,Current,2024-10-10 12:21:00,Revolut Bank UAB,5.0,44.0
+198,Transfer,Current,2024-10-10 12:25:12,Revolut Bank UAB,10.0,54.0
+199,Card Payment,Current,2024-10-09 14:17:20,PENNY,-6.99,47.01
+200,Topup,Current,2024-10-12 19:06:53,Apple Pay top-up by *1781,160.0,207.01
+201,Transfer,Current,2024-10-12 19:07:59,Revolut Bank UAB,-160.0,47.01
+202,Card Payment,Current,2024-10-13 09:18:09,Bolt,-11.9,35.11
+203,Card Payment,Current,2024-10-13 08:53:13,Bolt,-12.4,22.71
+204,Transfer,Current,2024-10-14 09:31:34,Revolut Bank UAB,8.0,30.71
+205,Transfer,Current,2024-10-14 10:20:12,Revolut Bank UAB,-8.0,22.71
+206,Transfer,Current,2024-10-14 10:28:04,Revolut Bank UAB,-11.0,11.71
+207,Card Payment,Current,2024-10-13 09:45:02,Metrorex,-3.0,8.71
+208,Card Payment,Current,2024-10-13 09:44:26,Metrorex,-3.0,5.71
+209,Transfer,Current,2024-10-15 11:26:40,Revolut Bank UAB,22.0,27.71
+210,Transfer,Current,2024-10-15 11:28:16,Revolut Bank UAB,4.0,31.71
+211,Transfer,Current,2024-10-15 11:28:35,Revolut Bank UAB,4.0,35.71
+212,Card Payment,Current,2024-10-14 07:47:54,Metrorex,-3.0,32.71
+213,Transfer,Current,2024-10-15 22:00:02,Revolut Bank UAB,-20.74,11.97
+214,Transfer,Current,2024-10-16 06:44:28,Revolut Bank UAB,20.74,32.71
+215,Card Payment,Current,2024-10-15 11:31:33,Mega Image,-11.97,20.74
+216,Transfer,Current,2024-10-16 07:57:46,Revolut Bank UAB,24.0,44.74
+217,Transfer,Current,2024-10-16 12:12:33,Revolut Bank UAB,3.0,47.74
+218,Card Payment,Current,2024-10-16 07:58:39,Mega Image,-44.0,3.74
+219,Topup,Current,2024-10-19 19:31:19,Apple Pay top-up by *1781,160.0,163.74
+220,Transfer,Current,2024-10-19 19:31:39,Revolut Bank UAB,-160.0,3.74
+221,Card Payment,Current,2024-10-18 14:50:18,Metrorex,-3.0,0.74
+222,Topup,Current,2024-10-22 11:35:23,Apple Pay top-up by *1781,60.0,60.74
+223,Transfer,Current,2024-10-22 11:35:38,Revolut Bank UAB,-22.0,38.74
+224,Transfer,Current,2024-10-23 08:17:27,Revolut Bank UAB,5.5,44.24
+225,Transfer,Current,2024-10-23 08:17:42,Revolut Bank UAB,1.0,45.24
+226,Card Payment,Current,2024-10-23 08:17:24,Mega Image,-11.18,34.06
+227,Transfer,Current,2024-10-24 18:51:33,Revolut Bank UAB,100.0,134.06
+228,Transfer,Current,2024-10-24 19:13:38,Revolut Bank UAB,150.0,284.06
+229,Card Payment,Current,2024-10-24 19:24:24,Carrefour,-14.9,269.16
+230,Card Payment,Current,2024-10-24 19:15:12,Sephora,-132.0,137.16
+231,Transfer,Current,2024-10-25 08:21:06,Revolut Bank UAB,5.0,142.16
+232,Card Payment,Current,2024-10-24 20:22:28,ParkLake Shopping Center,-4.0,138.16
+233,Card Payment,Current,2024-10-25 10:31:41,Mega Image,-3.99,134.17
+234,Card Payment,Current,2024-10-25 08:25:45,Mega Image,-7.18,126.99
+235,Card Payment,Current,2024-10-24 19:30:47,Taco Bell,-20.5,106.49
+236,Card Payment,Current,2024-10-26 17:27:29,MM Partners Pub,-4.0,102.49
+237,Card Payment,Current,2024-10-26 03:00:41,Uber,-50.88,51.61
+238,Transfer,Current,2024-10-27 14:54:11,Revolut Bank UAB,-18.0,33.61
+239,Topup,Current,2024-10-27 15:06:06,Apple Pay top-up by *1781,160.0,193.61
+240,Transfer,Current,2024-10-27 15:06:18,Revolut Bank UAB,-160.0,33.61
+241,Card Payment,Current,2024-10-26 17:53:09,Profi,-8.89,24.72
+242,Card Payment,Current,2024-10-27 18:59:08,McDonald's,-10.5,14.22
+243,Card Payment,Current,2024-10-26 16:22:48,Amparcat.ro,-1.2,13.02
+244,Card Payment,Current,2024-10-28 17:05:52,Mobilitate urbana,-1.0,12.02
+245,Transfer,Current,2024-10-30 23:03:19,Revolut Bank UAB,10.0,22.02
+246,Topup,Current,2024-11-03 18:51:45,Apple Pay top-up by *1781,160.0,182.02
+247,Transfer,Current,2024-11-03 18:52:11,Revolut Bank UAB,-160.0,22.02
+248,Transfer,Current,2024-11-04 11:59:25,Revolut Bank UAB,22.0,44.02
+249,Transfer,Current,2024-11-06 09:33:42,Revolut Bank UAB,-22.0,22.02
+250,Transfer,Current,2024-11-07 12:22:25,Revolut Bank UAB,1000.0,1022.02
+251,Transfer,Current,2024-11-07 13:00:51,Revolut Bank UAB,-2.5,1019.52
+252,Card Payment,Current,2024-11-07 13:24:15,Mega Image,-5.69,1013.83
+253,Card Payment,Current,2024-11-07 13:22:18,Orient Shaorma,-29.0,984.83
+254,Card Payment,Current,2024-11-08 14:32:53,Mega Image,-11.0,973.83
+255,Card Payment,Current,2024-11-08 10:35:35,Mega Image,-8.99,964.84
+256,Card Payment,Current,2024-11-08 20:58:55,Casa Natural Prod,-11.0,953.84
+257,Card Payment,Current,2024-11-08 19:41:31,Casa Natural Prod,-14.0,939.84
+258,Card Payment,Current,2024-11-09 13:53:30,Curcubeului Market,-22.0,917.84
+259,Card Payment,Current,2024-11-09 18:28:49,Carrefour,-4.65,913.19
+260,Topup,Current,2024-11-10 16:38:25,Apple Pay top-up by *1781,160.0,1073.19
+261,Transfer,Current,2024-11-10 16:38:52,Revolut Bank UAB,-160.0,913.19
+262,Card Payment,Current,2024-11-09 18:18:29,Zara,-280.4,632.79
+263,Card Payment,Current,2024-11-10 15:18:12,Klarna,-30.0,602.79
+264,Card Payment,Current,2024-11-13 11:41:42,Abonamente Săli,-219.0,
+265,Card Payment,Current,2024-11-12 15:11:42,MOL,-22.0,580.79
+266,Card Payment,Current,2024-11-12 17:47:38,PENNY,-9.87,570.92
+267,Card Payment,Current,2024-11-13 18:11:09,Lidl,-1.99,568.93
+268,Card Payment,Current,2024-11-14 13:19:39,Mega Image,-4.79,564.14
+269,Card Payment,Current,2024-11-14 08:02:17,Ali Com Orient,-26.0,538.14
+270,Transfer,Current,2024-11-15 10:31:24,Revolut Bank UAB,22.0,560.14
+271,Topup,Current,2024-11-15 11:21:35,Apple Pay top-up by *1781,160.0,720.14
+272,Transfer,Current,2024-11-15 11:21:54,Revolut Bank UAB,-160.0,560.14
+273,Card Payment,Current,2024-11-15 10:33:05,Mega Image,-44.0,516.14
+274,Card Payment,Current,2024-11-15 12:01:48,ParkLake Shopping Center,-35.0,481.14
+275,Topup,Current,2024-11-17 20:28:44,Apple Pay top-up by *1781,160.0,641.14
+276,Transfer,Current,2024-11-17 20:29:10,Revolut Bank UAB,-160.0,481.14
+277,Card Payment,Current,2024-11-17 13:29:40,Spalatorie Auto Alexander,-6.66,474.48
+278,Card Payment,Current,2024-11-16 23:42:47,Amparcat.ro,-6.0,468.48
+279,Card Payment,Current,2024-11-15 07:30:03,Metrorex,-3.0,465.48
+280,Card Payment,Current,2024-11-15 07:29:55,Metrorex,-3.0,462.48
+281,Card Payment,Current,2024-11-19 14:18:11,Starbucks,-40.0,422.48
+282,Card Payment,Current,2024-11-20 10:40:54,Froo,-4.99,417.49
+283,Card Payment,Current,2024-11-19 07:04:24,Metrorex,-3.0,414.49
+284,Card Payment,Current,2024-11-19 16:01:31,Metrorex,-3.0,411.49
+285,Card Payment,Current,2024-11-20 07:39:46,Metrorex,-3.0,408.49
+286,Card Payment,Current,2024-11-20 07:40:09,Metrorex,-3.0,405.49
+287,Card Payment,Current,2024-11-21 08:30:20,Mega Image,-2.29,403.2
+288,Card Payment,Current,2024-11-21 10:17:02,Mega Image,-2.49,400.71
+289,Card Payment,Current,2024-11-22 10:37:56,Froo,-11.88,388.83
+290,Card Payment,Current,2024-11-21 19:49:23,Metrorex,-3.0,385.83
+291,Transfer,Current,2024-11-22 19:53:26,Revolut Bank UAB,20.0,405.83
+292,Card Payment,Current,2024-11-22 23:57:08,Uber,-13.57,
+293,Card Payment,Current,2024-11-22 12:50:56,Image Photo Production,-1.5,404.33
+294,Card Payment,Current,2024-11-23 00:00:42,Bolt,-11.7,392.63
+295,Topup,Current,2024-11-23 18:20:39,Apple Pay top-up by *1781,160.0,552.63
+296,Transfer,Current,2024-11-23 18:20:58,Revolut Bank UAB,-160.0,392.63
+297,Card Payment,Current,2024-11-23 12:03:34,Froo,-20.47,372.16
+298,Card Payment,Current,2024-11-24 18:06:11,Kfc,-13.0,359.16
+299,Card Payment,Current,2024-11-24 17:51:55,Kfc,-10.5,348.66
+300,Card Payment,Current,2024-11-22 14:49:24,Metrorex,-3.0,345.66
+301,Card Payment,Current,2024-11-22 20:10:39,Metrorex,-3.0,342.66
+302,Card Payment,Current,2024-11-25 09:28:37,Mega Image,-7.48,335.18
+303,Transfer,Current,2024-11-26 09:24:09,Revolut Bank UAB,-22.0,313.18
+304,Card Payment,Current,2024-11-26 11:32:55,Mega Image,-3.99,309.19
+305,Transfer,Current,2024-11-27 08:23:15,Revolut Bank UAB,22.0,331.19
+306,Transfer,Current,2024-11-27 09:29:09,Revolut Bank UAB,-10.0,321.19
+307,Card Payment,Current,2024-11-27 08:23:50,Froo,-21.99,299.2
+308,Transfer,Current,2024-11-29 15:16:51,Revolut Bank UAB,400.0,699.2
+309,Card Payment,Current,2024-11-29 18:18:40,PENNY,-31.22,667.98
+310,Card Payment,Current,2024-11-29 16:10:14,Zara,-350.4,317.58
+311,Card Payment,Current,2024-11-29 15:10:02,Inmedio,-8.0,309.58
+312,Card Payment,Current,2024-11-29 16:33:47,Inmedio,-6.0,303.58
+313,Topup,Current,2024-11-30 21:15:58,Apple Pay top-up by *1781,160.0,463.58
+314,Transfer,Current,2024-11-30 21:16:15,Revolut Bank UAB,-160.0,303.58
+315,Card Payment,Current,2024-11-30 14:01:26,MM Partners Pub,-3.0,300.58
+316,Card Payment,Current,2024-12-02 11:33:19,Froo,-9.68,290.9
+317,Card Payment,Current,2024-12-02 14:26:38,Bolt,-3.86,287.04
+318,Card Payment,Current,2024-11-29 07:44:09,Metrorex,-3.0,284.04
+319,Card Payment,Current,2024-12-02 08:12:21,Mega Image,-22.0,262.04
+320,Card Payment,Current,2024-12-02 16:05:44,Stand Up BarberShop,-10.0,252.04
+321,Transfer,Current,2024-12-03 11:33:13,Revolut Bank UAB,-4.0,248.04
+322,Card Payment,Current,2024-12-02 16:57:33,Profi,-21.4,226.64
+323,Card Payment,Current,2024-12-02 07:44:24,Metrorex,-3.0,223.64
+324,Card Payment,Current,2024-12-03 12:36:18,Mega Image,-10.47,213.17
+325,Transfer,Current,2024-12-04 10:23:35,Revolut Bank UAB,1.0,214.17
+326,Transfer,Current,2024-12-04 10:31:12,Revolut Bank UAB,13.0,227.17
+327,Card Payment,Current,2024-12-03 15:14:07,Sdc Biruintei C0,-29.5,197.67
+328,Card Payment,Current,2024-12-05 13:00:27,Mega Image,-22.0,175.67
+329,Transfer,Current,2024-12-06 20:30:02,Revolut Bank UAB,150.0,325.67
+330,Transfer,Current,2024-12-07 18:38:05,To Razvan Mihai Pica,-150.0,175.67
+331,Transfer,Current,2024-12-07 19:22:13,Revolut Bank UAB,-22.0,153.67
+332,Transfer,Current,2024-12-07 20:06:18,To maia basalau,-40.0,113.67
+333,Transfer,Current,2024-12-07 21:11:56,Revolut Bank UAB,-20.0,93.67
+334,Card Payment,Current,2024-12-07 19:21:59,Mega Image,-7.09,86.58
+335,Card Payment,Current,2024-12-08 00:04:13,Uber,-47.12,39.46
+336,Topup,Current,2024-12-08 22:53:24,Apple Pay top-up by *1781,160.0,199.46
+337,Transfer,Current,2024-12-08 22:54:05,Revolut Bank UAB,-160.0,39.46
+338,Card Payment,Current,2024-12-07 18:27:18,Metrorex,-3.0,36.46
+339,Card Payment,Current,2024-12-10 18:21:57,Leroy Merlin,-19.9,16.56
+340,Card Payment,Current,2024-12-10 07:53:42,Metrorex,-3.0,13.56
+341,Card Payment,Current,2024-12-10 13:52:50,Metrorex,-3.0,10.56
+342,Transfer,Current,2024-12-13 08:18:04,Revolut Bank UAB,30.0,40.56
+343,Card Payment,Current,2024-12-13 08:20:50,Mega Image,-29.09,11.47
+344,Topup,Current,2024-12-21 21:10:09,Apple Pay top-up by *1781,160.0,171.47
+345,Transfer,Current,2024-12-21 21:10:26,Revolut Bank UAB,-160.0,11.47
+346,Topup,Current,2024-12-27 17:47:32,Apple Pay top-up by *1781,160.0,171.47
+347,Transfer,Current,2024-12-27 17:47:49,Revolut Bank UAB,-160.0,11.47
+348,Transfer,Current,2024-12-29 13:25:27,Revolut Bank UAB,-5.0,6.47
+349,Topup,Current,2024-12-29 22:10:38,Apple Pay top-up by *1781,160.0,166.47
+350,Transfer,Current,2024-12-29 22:10:55,Revolut Bank UAB,-160.0,6.47
+351,Transfer,Current,2024-12-30 15:41:53,Revolut Bank UAB,5.0,11.47
+352,Card Payment,Current,2024-12-27 17:40:36,Amparcat.ro,-1.2,10.27
+353,Transfer,Current,2024-12-30 18:10:56,Revolut Bank UAB,145.0,155.27
+354,Card Payment,Current,2024-12-27 17:57:47,Metrorex,-3.0,152.27
+355,Transfer,Current,2025-01-01 13:41:01,Revolut Bank UAB Vilnius Sucursala București,-145.0,7.27
+356,Transfer,Current,2025-01-02 15:20:23,Revolut Bank UAB,200.0,207.27
+357,Transfer,Current,2025-01-02 15:33:39,To Razvan Mihai Pica,-200.0,7.27
+358,Topup,Current,2025-01-02 21:01:25,Apple Pay top-up by *1781,200.0,207.27
+359,Transfer,Current,2025-01-02 21:02:39,Revolut Bank UAB,-200.0,7.27
+360,Topup,Current,2025-01-04 01:29:54,Apple Pay top-up by *1781,160.0,167.27
+361,Transfer,Current,2025-01-04 01:30:10,Revolut Bank UAB,-160.0,7.27
+362,Topup,Current,2025-01-04 18:36:43,Apple Pay top-up by *1781,160.0,167.27
+363,Transfer,Current,2025-01-04 18:36:56,Revolut Bank UAB,-160.0,7.27
+364,Transfer,Current,2025-01-08 10:36:10,Revolut Bank UAB,6.0,13.27
+365,Transfer,Current,2025-01-10 19:29:26,Revolut Bank UAB Vilnius Sucursala București,-10.0,3.27
+366,Topup,Current,2025-01-11 20:57:20,Apple Pay top-up by *1781,160.0,163.27
+367,Transfer,Current,2025-01-11 20:57:39,Revolut Bank UAB,-160.0,3.27
+368,Topup,Current,2025-01-12 17:02:27,Apple Pay top-up by *1781,160.0,163.27
+369,Transfer,Current,2025-01-12 17:02:43,Revolut Bank UAB,-160.0,3.27
+370,Transfer,Current,2025-01-14 18:14:39,Revolut Bank UAB,1.0,4.27
+371,Transfer,Current,2025-01-14 18:14:45,Revolut Bank UAB,16.0,20.27
+372,Card Payment,Current,2025-01-15 18:40:28,Lidl,-2.29,17.98
+373,Topup,Current,2025-01-18 22:00:09,Apple Pay top-up by *1781,160.0,177.98
+374,Transfer,Current,2025-01-18 22:00:24,Revolut Bank UAB,-160.0,17.98
+375,Topup,Current,2025-01-19 17:18:33,Apple Pay top-up by *1781,200.0,217.98
+376,Transfer,Current,2025-01-19 17:19:17,Revolut Bank UAB,-200.0,17.98
+377,Card Payment,Current,2025-01-20 08:29:49,Mega Image,-3.99,13.99
+378,Topup,Current,2025-01-21 13:37:29,Apple Pay top-up by *1781,70.0,83.99
+379,Transfer,Current,2025-01-21 13:38:04,Revolut Bank UAB,-70.0,13.99
+380,Topup,Current,2025-01-24 22:40:26,Apple Pay top-up by *1781,160.0,173.99
+381,Transfer,Current,2025-01-24 22:41:02,Revolut Bank UAB,-160.0,13.99
+382,Topup,Current,2025-01-27 16:14:32,Apple Pay top-up by *1781,160.0,173.99
+383,Transfer,Current,2025-01-27 16:14:48,Revolut Bank UAB,-160.0,13.99
+384,Topup,Current,2025-01-27 22:14:16,Apple Pay top-up by *1781,65.0,78.99
+385,Transfer,Current,2025-01-27 22:16:20,To David Adrian Grosu,-65.0,13.99
+386,Topup,Current,2025-02-01 13:46:25,Apple Pay top-up by *1781,160.0,173.99
+387,Transfer,Current,2025-02-01 13:46:52,Revolut Bank UAB,-160.0,13.99
+388,Card Payment,Current,2025-02-01 15:50:21,Simigeria Matei,-5.0,8.99
+389,Card Payment,Current,2025-02-01 15:54:48,Mega Image,-7.19,1.8
+390,Card Payment,Current,2025-02-02 17:19:04,Amparcat.ro,-1.2,0.6
+391,Transfer,Current,2025-02-05 23:24:00,Revolut Bank UAB,56.06,56.66
+392,Transfer,Current,2025-02-06 09:46:31,Revolut Bank UAB,4.0,60.66
+393,Topup,Current,2025-02-08 20:47:19,Apple Pay top-up by *1781,160.0,220.66
+394,Transfer,Current,2025-02-08 20:47:35,Revolut Bank UAB,-160.0,60.66
+395,Topup,Current,2025-02-10 14:55:52,Apple Pay top-up by *1781,160.0,220.66
+396,Transfer,Current,2025-02-10 14:56:12,Revolut Bank UAB,-160.0,60.66
+397,Topup,Current,2025-02-11 14:02:21,Apple Pay top-up by *1781,410.0,470.66
+398,Card Payment,Current,2025-02-11 14:03:41,AliExpress,-451.51,19.15
+399,Rev Payment,Current,2025-02-15 12:04:49,amparcat.ro*Otopeni,-1.2,17.95
+400,Topup,Current,2025-02-15 13:32:32,Apple Pay top-up by *1781,160.0,177.95
+401,Transfer,Current,2025-02-15 13:32:49,Revolut Bank UAB,-160.0,17.95
+402,Transfer,Current,2025-02-18 12:44:35,Revolut Bank UAB,140.0,157.95
+403,Topup,Current,2025-02-18 12:45:09,Apple Pay top-up by *1781,140.0,297.95
+404,Transfer,Current,2025-02-19 21:52:31,Revolut Bank UAB,400.0,697.95
+405,Card Payment,Current,2025-02-19 15:25:10,Kenos Life,-270.0,427.95
+406,Transfer,Current,2025-02-21 20:28:51,Revolut Bank UAB,150.0,577.95
+407,Card Payment,Current,2025-02-21 08:39:57,Carrefour,-12.07,565.88
+408,Transfer,Current,2025-02-22 14:01:07,Revolut Bank UAB,-160.0,405.88
+409,Transfer,Current,2025-02-22 20:16:34,Revolut Bank UAB,-8.0,397.88
+410,Card Payment,Current,2025-02-22 17:33:07,Carrefour,-22.99,374.89
+411,Card Payment,Current,2025-02-22 18:36:23,Casa Natural Prod,-15.0,359.89
+412,Card Payment,Current,2025-02-22 19:37:54,Casa Natural Prod,-19.0,340.89
+413,Card Payment,Current,2025-02-23 17:36:45,Mega Image,-23.0,317.89
+414,Card Payment,Current,2025-02-23 17:02:56,Free Spirit,-7.0,310.89
+415,Card Payment,Current,2025-02-23 18:44:19,dm drogerie,-25.95,284.94
+416,Card Payment,Current,2025-02-24 09:28:51,Mega Image,-7.37,277.57
+417,Card Payment,Current,2025-02-24 18:39:07,Mega Image,-23.0,254.57
+418,Card Payment,Current,2025-02-24 11:58:44,Cora,-2.99,251.58
+419,Transfer,Current,2025-02-25 13:57:08,Revolut Bank UAB,-160.0,91.58
+420,Card Payment,Current,2025-02-24 11:49:48,Multimat Mihalache,-8.5,83.08
+421,Card Payment,Current,2025-02-25 11:34:42,Multimat Impex,-10.0,73.08
+422,Card Payment,Current,2025-02-25 11:36:19,Multimat Impex,-3.5,69.58
+423,Card Payment,Current,2025-02-24 07:53:59,Metrorex,-5.0,64.58
+424,Card Payment,Current,2025-02-27 09:17:36,Profi,-23.0,41.58
+425,Card Payment,Current,2025-02-28 10:36:03,Froo,-4.99,36.59
+426,Card Payment,Current,2025-02-28 11:17:25,Mega Image,-3.49,33.1
+427,Card Payment,Current,2025-02-28 14:58:35,Mega Image,-11.47,21.63
+428,Card Payment,Current,2025-02-28 08:19:42,Cora,-5.5,16.13
+429,Card Payment,Current,2025-03-01 18:55:03,Amparcat.ro,-6.0,10.13
+430,Transfer,Current,2025-03-07 21:10:54,Revolut Bank UAB Vilnius Sucursala București,30.0,40.13
+431,Card Payment,Current,2025-03-08 19:00:26,Froo,-4.99,35.14
+432,Card Payment,Current,2025-03-08 13:16:18,Mega Image,-4.69,30.45
+433,Topup,Current,2025-03-09 11:22:30,Apple Pay top-up by *1781,160.0,190.45
+434,Transfer,Current,2025-03-09 11:22:49,Revolut Bank UAB,-160.0,30.45
+435,Card Payment,Current,2025-03-08 19:37:19,Profi,-17.97,12.48
+436,Card Payment,Current,2025-03-10 11:11:20,Mega Image,-3.89,8.59
+437,Topup,Current,2025-03-14 10:10:50,Apple Pay top-up by *1781,160.0,168.59
+438,Transfer,Current,2025-03-14 10:11:07,Revolut Bank UAB Vilnius Sucursala București,-160.0,8.59
+439,Card Payment,Current,2025-03-15 09:26:57,Eur Comtur,-4.5,4.09
+440,Topup,Current,2025-03-22 12:10:55,Apple Pay top-up by *1781,160.0,164.09
+441,Transfer,Current,2025-03-22 12:11:14,Revolut Bank UAB Vilnius Sucursala București,-160.0,4.09
+442,Topup,Current,2025-03-28 13:37:17,Apple Pay top-up by *1781,160.0,164.09
+443,Transfer,Current,2025-03-28 13:37:33,Revolut Bank UAB Vilnius Sucursala București,-160.0,4.09
+444,Topup,Current,2025-04-02 10:59:14,Apple Pay top-up by *1781,160.0,164.09
+445,Transfer,Current,2025-04-02 10:59:31,Revolut Bank UAB Vilnius Sucursala București,-160.0,4.09
+446,Topup,Current,2025-04-04 14:04:44,Apple Pay top-up by *1781,184.0,188.09
+447,Transfer,Current,2025-04-04 14:05:37,Revolut Bank UAB Vilnius Sucursala București,-24.0,164.09
+448,Transfer,Current,2025-04-04 14:22:49,Revolut Bank UAB Vilnius Sucursala București,-160.0,4.09
+449,Transfer,Current,2025-04-10 12:51:26,Revolut Bank UAB Vilnius Sucursala București,-4.09,0.0
+450,Transfer,Current,2025-04-17 19:03:07,Revolut Bank UAB Vilnius Sucursala București,300.0,300.0
+451,Topup,Current,2025-04-18 12:44:31,Apple Pay top-up by *1781,160.0,460.0
+452,Transfer,Current,2025-04-18 12:44:52,Revolut Bank UAB Vilnius Sucursala București,-160.0,300.0
+453,Card Payment,Current,2025-04-18 13:38:51,Bershka,-140.3,159.7
+454,Card Payment,Current,2025-04-19 21:49:37,OMV,-7.99,151.71
+455,Card Payment,Current,2025-04-22 22:10:59,Mega Image,-6.29,145.42
+456,Topup,Current,2025-04-23 11:57:48,Apple Pay top-up by *1781,150.0,295.42
+457,Transfer,Current,2025-04-23 11:58:07,Revolut Bank UAB Vilnius Sucursala București,-160.0,135.42
+458,Card Payment,Current,2025-04-22 20:50:29,Kfc,-14.0,121.42
+459,Card Payment,Current,2025-04-24 17:08:17,Curcubeului Market,-23.0,98.42
+460,Card Payment,Current,2025-04-24 19:03:24,Lidl,-2.29,96.13
+461,Card Payment,Current,2025-04-25 16:58:17,Mobilitate urbana,-6.0,90.13
+462,Card Payment,Current,2025-04-25 16:50:22,Bolt,-6.44,83.69
+463,Card Payment,Current,2025-04-25 17:48:00,Mega Image,-14.99,68.7
+464,Card Payment,Current,2025-04-25 16:47:58,Carrefour,-5.49,63.21
+465,Topup,Current,2025-04-26 16:26:26,Apple Pay top-up by *1781,440.0,503.21
+466,Transfer,Current,2025-04-26 16:26:42,Revolut Bank UAB Vilnius Sucursala București,-160.0,343.21
+467,Rev Payment,Current,2025-04-27 17:54:00,amparcat.ro*Otopeni,-1.19,342.02
+468,Card Payment,Current,2025-04-27 16:54:21,Amparcat.ro,-1.19,340.83
+469,Card Payment,Current,2025-04-25 17:55:44,Farmacia Ana Maria,-21.25,319.58
+470,Transfer,Current,2025-05-01 08:44:55,To moldovan maria,-100.0,219.58
+471,Card Payment,Current,2025-05-01 14:17:56,Profi,-202.23,17.35
+472,Transfer,Current,2025-05-02 20:28:32,Revolut Bank UAB Vilnius Sucursala București,25.0,42.35
+473,Transfer,Current,2025-05-02 21:00:21,Revolut Bank UAB Vilnius Sucursala București,25.0,67.35
+474,Card Payment,Current,2025-05-02 10:44:41,Lidl,-1.69,65.66
+475,Transfer,Current,2025-05-04 15:13:39,Revolut Bank UAB Vilnius Sucursala București,25.0,90.66
+476,Transfer,Current,2025-05-04 15:25:12,Revolut Bank UAB Vilnius Sucursala București,25.0,115.66
+477,Topup,Current,2025-05-04 19:43:31,Apple Pay top-up by *1781,251.56,367.22
+478,Card Payment,Current,2025-05-06 11:35:54,Mega Image,-4.79,362.43
+479,Transfer,Current,2025-05-07 10:04:54,Revolut Bank UAB Vilnius Sucursala București,11.5,373.93
+480,Card Payment,Current,2025-05-09 08:37:09,Froo,-28.48,345.45
+481,Card Payment,Current,2025-05-09 07:07:59,Mega Image,-6.48,338.97
+482,Topup,Current,2025-05-10 18:52:05,Apple Pay top-up by *1781,160.0,498.97
+483,Transfer,Current,2025-05-10 18:52:25,Revolut Bank UAB Vilnius Sucursala București,-160.0,338.97
+484,Card Payment,Current,2025-05-10 16:56:08,Curcubeului Market,-23.0,315.97
+485,Transfer,Current,2025-05-11 21:27:08,Revolut Bank UAB Vilnius Sucursala București,25.0,340.97
+486,Card Payment,Current,2025-05-11 20:30:47,Langa Pod,-70.0,270.97
+487,Transfer,Current,2025-05-13 11:28:36,Revolut Bank UAB Vilnius Sucursala București,-23.0,247.97
+488,Card Payment,Current,2025-05-12 12:21:53,Vending Zone,-10.0,237.97
+489,Card Payment,Current,2025-05-13 08:43:05,Mega Image,-11.08,226.89
+490,Card Payment,Current,2025-05-13 11:47:04,Youlan Circus,-13.0,213.89
+491,Card Payment,Current,2025-05-14 08:16:22,Mega Image,-7.19,206.7
+492,Card Payment,Current,2025-05-14 10:42:40,Youlan Circus,-13.0,193.7
+493,Card Payment,Current,2025-05-14 12:40:01,CoffeeBox Retorica,-50.0,143.7
+494,Transfer,Current,2025-05-15 14:59:18,Revolut Bank UAB Vilnius Sucursala București,-7.0,136.7
+495,Card Payment,Current,2025-05-15 08:46:06,Mega Image,-4.79,131.91
+496,Card Payment,Current,2025-05-15 14:55:55,Mega Image,-30.19,101.72
+497,Card Payment,Current,2025-05-15 07:33:49,Profi,-4.25,97.47
+498,Topup,Current,2025-05-16 20:22:04,Apple Pay top-up by *1781,160.0,257.47
+499,Transfer,Current,2025-05-16 20:22:20,Revolut Bank UAB Vilnius Sucursala București,-160.0,97.47
+500,Card Payment,Current,2025-05-15 08:52:56,Garage cafe,-14.0,83.47
+501,Card Payment,Current,2025-05-16 21:35:54,Carrefour,-15.9,67.57
+502,Rev Payment,Current,2025-05-17 17:43:51,amparcat.ro*Otopeni,-1.16,66.41
+503,Rev Payment,Current,2025-05-17 18:46:18,amparcat.ro*Otopeni,-2.32,64.09
+504,Transfer,Current,2025-05-18 21:08:40,Revolut Bank UAB Vilnius Sucursala București,-25.0,39.09
+505,Card Payment,Current,2025-05-18 19:14:47,McDonald's,-9.0,30.09
+506,Topup,Current,2025-05-19 13:22:08,Payment from CITIBANK EUROPE PLC-DUBLIN,173.0,203.09
+507,Transfer,Current,2025-05-19 16:10:32,Revolut Bank UAB Vilnius Sucursala București,-20.0,183.09
+508,Transfer,Current,2025-05-21 12:16:44,Revolut Bank UAB Vilnius Sucursala București,50.0,233.09
+509,Transfer,Current,2025-05-21 12:16:54,Revolut Bank UAB Vilnius Sucursala București,50.0,283.09
+510,Transfer,Current,2025-05-21 13:20:35,Revolut Bank UAB Vilnius Sucursala București,-60.0,223.09
+511,Transfer,Current,2025-05-21 13:23:47,Revolut Bank UAB Vilnius Sucursala București,-56.0,167.09
+512,Transfer,Current,2025-05-21 13:25:08,Revolut Bank UAB Vilnius Sucursala București,-60.0,107.09
+513,Transfer,Current,2025-05-21 13:27:18,Revolut Bank UAB Vilnius Sucursala București,56.0,163.09
+514,Card Payment,Current,2025-05-20 06:47:49,Profi,-27.25,135.84
+515,Card Payment,Current,2025-05-20 11:57:18,Andalex Gastronomy,-30.0,105.84
+516,Card Payment,Current,2025-05-21 14:22:57,Bolt,-5.22,100.62
+517,Card Payment,Current,2025-05-21 10:05:31,Mega Image,-13.78,86.84
+518,Card Payment,Current,2025-05-21 12:07:39,Mega Image,-29.45,57.39
+519,Transfer,Current,2025-05-22 13:49:26,Revolut Bank UAB Vilnius Sucursala București,-2.0,55.39
+520,Card Payment,Current,2025-05-23 07:18:28,Froo,-13.79,41.6
+521,Card Payment,Current,2025-05-22 13:48:05,Mega Image,-23.0,18.6
+522,Card Payment,Current,2025-05-22 09:55:27,Sky 24,-10.0,8.6
+523,Topup,Current,2025-05-24 10:07:14,Apple Pay top-up by *1781,160.0,168.6
+524,Transfer,Current,2025-05-24 10:07:38,Revolut Bank UAB Vilnius Sucursala București,-160.0,8.6
+525,Transfer,Current,2025-05-26 09:37:55,Revolut Bank UAB Vilnius Sucursala București,8.0,16.6
+526,Card Payment,Current,2025-05-26 09:40:38,Multimat Impex,-9.0,7.6
+527,Transfer,Current,2025-05-31 14:33:47,Revolut Bank UAB Vilnius Sucursala București,500.0,507.6
+528,Topup,Current,2025-05-31 15:16:23,Apple Pay top-up by *1781,185.0,692.6
+529,Transfer,Current,2025-05-31 15:16:43,Revolut Bank UAB Vilnius Sucursala București,-160.0,532.6
+530,Transfer,Current,2025-05-31 15:17:15,To Nicoleta Adriana Petre,-25.0,507.6
+531,Transfer,Current,2025-06-02 20:09:10,To Razvan Mihai Pica,-500.0,7.6
+532,Topup,Current,2025-06-03 11:37:06,Apple Pay top-up by *1781,160.0,167.6
+533,Transfer,Current,2025-06-03 19:36:07,Revolut Bank UAB Vilnius Sucursala București,500.0,667.6
+534,Card Payment,Current,2025-06-03 21:38:47,Spalatorie Auto Alexander,-6.66,660.94
+535,Card Payment,Current,2025-06-03 21:03:56,ACCO Fashion,-79.0,581.94
+536,Card Payment,Current,2025-06-03 20:51:49,CCC,-1.0,580.94
+537,Transfer,Current,2025-06-04 10:24:47,Revolut Bank UAB Vilnius Sucursala București,-23.0,557.94
+538,Transfer,Current,2025-06-04 10:28:19,To Razvan Mihai Pica,-300.0,257.94
+539,Card Payment,Current,2025-06-04 07:50:20,Froo,-6.49,251.45
+540,Transfer,Current,2025-06-04 15:25:31,Revolut Bank UAB Vilnius Sucursala București,-160.0,91.45
+541,Card Payment,Current,2025-06-04 15:43:59,Mega Image,-9.28,82.17
+542,Transfer,Current,2025-06-05 16:59:15,Revolut Bank UAB Vilnius Sucursala București,80.0,162.17
+543,Card Payment,Current,2025-06-05 13:55:34,Mega Image,-67.53,94.64
+544,Topup,Current,2025-06-06 18:01:18,Apple Pay top-up by *1781,1090.0,1184.64
+545,Transfer,Current,2025-06-06 18:02:20,To investment account,-1003.12,181.52
+546,Card Payment,Current,2025-06-08 16:43:28,Epic Games Store,-91.88,89.64
+547,Card Payment,Current,2025-06-07 22:03:04,Spalatorie Auto Alexander,-6.66,82.98
+548,Transfer,Current,2025-06-10 15:14:22,Revolut Bank UAB Vilnius Sucursala București,-14.0,68.98
+549,Rev Payment,Current,2025-06-11 19:39:46,amparcat.ro*Otopeni,-4.64,64.34
+550,Card Payment,Current,2025-06-11 11:58:57,Mega Image,-32.58,31.76
+551,Card Payment,Current,2025-06-11 14:08:13,OMV,-8.49,23.27
+552,Card Payment,Current,2025-06-11 07:30:40,Global GNF,-14.0,9.27
+553,Transfer,Current,2025-06-13 13:35:48,Revolut Bank UAB Vilnius Sucursala București,50.0,59.27
+554,Transfer,Current,2025-06-13 14:21:09,Revolut Bank UAB Vilnius Sucursala București,23.0,82.27
+555,Topup,Current,2025-06-14 06:10:45,Apple Pay top-up by *1781,60.0,142.27
+556,Transfer,Current,2025-06-14 06:11:05,Revolut Bank UAB Vilnius Sucursala București,-26.0,116.27
+557,Card Payment,Current,2025-06-13 14:34:25,Mega Image,-46.0,70.27
+558,Card Payment,Current,2025-06-13 07:13:13,Multimat Impex,-2.5,67.77
+559,Card Payment,Current,2025-06-13 22:20:32,Profi,-30.5,37.27
+560,Transfer,Current,2025-06-16 11:40:54,Revolut Bank UAB Vilnius Sucursala București,31.0,68.27
+561,Transfer,Current,2025-06-16 21:35:48,Revolut Bank UAB Vilnius Sucursala București,-15.0,53.27
+562,Card Payment,Current,2025-06-16 17:41:15,Amarket Magazin Mixt,-7.44,45.83
+563,Card Payment,Current,2025-06-16 20:38:36,Gelateria Dolcissima,-13.0,32.83
+564,Transfer,Current,2025-06-17 14:34:48,Revolut Bank UAB Vilnius Sucursala București,15.0,47.83
+565,Transfer,Current,2025-06-17 14:35:23,Revolut Bank UAB Vilnius Sucursala București,-15.0,32.83
+566,Transfer,Current,2025-06-17 14:36:02,Revolut Bank UAB Vilnius Sucursala București,25.0,57.83
+567,Card Payment,Current,2025-06-17 18:09:14,CT BUS,-3.0,54.83
+568,Card Payment,Current,2025-06-17 14:36:11,Lazy Beach,-50.0,4.83
+569,Card Payment,Current,2025-06-19 21:33:28,Mobilitate urbana,-1.0,3.83
+570,Topup,Current,2025-06-21 12:01:26,Apple Pay top-up by *1781,160.0,163.83
+571,Transfer,Current,2025-06-21 12:01:59,Revolut Bank UAB Vilnius Sucursala București,-160.0,3.83
+572,Topup,Current,2025-06-21 21:04:30,Apple Pay top-up by *1781,60.0,63.83
+573,Transfer,Current,2025-06-21 21:09:06,Revolut Bank UAB Vilnius Sucursala București,-5.0,58.83
+574,TEMP_BLOCK,Current,2025-06-21 21:09:34,To Victor,-4.0,
+575,Transfer,Current,2025-06-21 21:23:24,Revolut Bank UAB Vilnius Sucursala București,-33.0,25.83
+576,Transfer,Current,2025-06-22 22:34:15,Revolut Bank UAB Vilnius Sucursala București,30.0,55.83
+577,Transfer,Current,2025-06-22 22:38:14,Revolut Bank UAB Vilnius Sucursala București,30.0,85.83
+578,Transfer,Current,2025-06-23 14:56:29,Revolut Bank UAB Vilnius Sucursala București,-25.0,60.83
+579,Card Payment,Current,2025-06-21 23:50:54,SUN PLAZA,-4.0,56.83
+580,Transfer,Current,2025-06-24 16:00:41,Revolut Bank UAB Vilnius Sucursala București,-4.0,52.83
+581,Topup,Current,2025-06-25 09:28:49,Apple Pay top-up by *1781,108.0,160.83
+582,Transfer,Current,2025-06-25 09:29:06,Revolut Bank UAB Vilnius Sucursala București,-160.0,0.83
+583,Transfer,Current,2025-06-26 21:04:12,Revolut Bank UAB Vilnius Sucursala București,25.0,25.83
+584,Transfer,Current,2025-06-27 11:51:11,Revolut Bank UAB Vilnius Sucursala București,160.0,185.83
+585,Transfer,Current,2025-06-27 11:52:46,To Nicoleta Adriana Petre,-155.0,30.83
+586,Topup,Current,2025-06-29 10:13:01,Apple Pay top-up by *1781,160.0,190.83
+587,Transfer,Current,2025-06-29 10:13:17,Revolut Bank UAB Vilnius Sucursala București,-160.0,30.83
+588,Card Payment,Current,2025-07-01 12:48:07,Spalatorie Auto Alexander,-6.66,24.17
+589,Card Payment,Current,2025-07-02 16:09:28,MOL,-8.39,15.78
+590,Card Payment,Current,2025-07-02 14:15:27,Amparcat.ro,-5.95,9.83
+591,Card Payment,Current,2025-07-03 12:00:18,MOL,-4.99,4.84
+592,Card Payment,Current,2025-07-03 15:09:05,Amparcat.ro,-1.16,3.68
+593,Topup,Current,2025-07-07 12:15:25,Apple Pay top-up by *1781,60.0,63.68
+594,Card Payment,Current,2025-07-07 12:16:57,Superprof,-29.0,34.68
+595,Transfer,Current,2025-07-09 14:58:24,Revolut Bank UAB Vilnius Sucursala București,-14.0,20.68
+596,Transfer,Current,2025-07-10 14:52:52,Revolut Bank UAB Vilnius Sucursala București,100.0,120.68
+597,Transfer,Current,2025-07-10 20:28:34,Revolut Bank UAB Vilnius Sucursala București,-6.5,114.18
+598,Transfer,Current,2025-07-10 21:07:30,Revolut Bank UAB Vilnius Sucursala București,-26.0,88.18
+599,Transfer,Current,2025-07-10 21:10:00,Revolut Bank UAB Vilnius Sucursala București,-4.0,84.18
+600,Card Payment,Current,2025-07-10 15:10:49,Carlabi,-12.0,72.18
+601,Card Payment,Current,2025-07-10 19:32:20,CoffeeBox Retorica,-39.0,33.18
+602,Transfer,Current,2025-07-12 00:08:42,Revolut Bank UAB Vilnius Sucursala București,-30.0,3.18
+603,Transfer,Current,2025-07-12 15:43:19,Revolut Bank UAB Vilnius Sucursala București,86.0,89.18
+604,Transfer,Current,2025-07-13 17:21:40,Revolut Bank UAB Vilnius Sucursala București,36.0,125.18
+605,Transfer,Current,2025-07-15 13:57:50,Revolut Bank UAB Vilnius Sucursala București,285.0,410.18
+606,Topup,Current,2025-07-15 13:58:41,Apple Pay top-up by *1781,156.0,566.18
+607,Card Payment,Current,2025-07-15 13:59:25,Booking.com,-565.14,1.04
+608,Topup,Current,2025-07-15 20:42:51,Apple Pay top-up by *1781,60.0,61.04
+609,Transfer,Current,2025-07-15 20:43:12,Revolut Bank UAB Vilnius Sucursala București,-24.0,37.04
+610,Card Payment,Current,2025-07-15 21:38:30,Betty ice,-12.5,24.54
+611,Card Payment,Current,2025-07-15 23:10:15,Kfc,-23.5,1.04
+612,Topup,Current,2025-07-17 16:39:10,Apple Pay top-up by *1781,60.0,61.04
+613,Transfer,Current,2025-07-17 16:39:31,Revolut Bank UAB Vilnius Sucursala București,-60.0,1.04
+614,Transfer,Current,2025-07-17 16:41:45,Revolut Bank UAB Vilnius Sucursala București,60.0,61.04
+615,Topup,Current,2025-07-17 18:16:17,Apple Pay top-up by *1781,120.0,181.04
+616,Transfer,Current,2025-07-17 18:16:41,Revolut Bank UAB Vilnius Sucursala București,-180.0,1.04
+617,Card Refund,Current,2025-07-17 03:00:00,Booking.com,565.14,566.18
+618,Transfer,Current,2025-07-18 12:55:17,Revolut Bank UAB Vilnius Sucursala București,-285.0,281.18
+619,Transfer,Current,2025-07-18 12:55:35,Revolut Bank UAB Vilnius Sucursala București,-13.0,268.18
+620,Transfer,Current,2025-07-18 18:53:28,Revolut Bank UAB Vilnius Sucursala București,-11.0,257.18
+621,Card Payment,Current,2025-07-18 13:05:37,Bibi Market,-24.0,233.18
+622,Transfer,Current,2025-07-19 17:54:23,Revolut Bank UAB Vilnius Sucursala București,-35.0,198.18
+623,Transfer,Current,2025-07-19 17:54:40,Revolut Bank UAB Vilnius Sucursala București,-25.0,173.18
+624,Card Payment,Current,2025-07-19 21:50:11,Bio By,-43.5,129.68
+625,Card Payment,Current,2025-07-19 20:12:11,La Clatite,-13.0,116.68
+626,Card Payment,Current,2025-07-19 02:05:48,Vant de vama,-4.0,112.68
+627,Card Payment,Current,2025-07-19 01:43:58,Vant de vama,-4.0,108.68
+628,Card Payment,Current,2025-07-19 18:02:49,HaVama,-45.0,63.68
+629,Transfer,Current,2025-07-20 15:57:27,Revolut Bank UAB Vilnius Sucursala București,26.0,89.68
+630,Transfer,Current,2025-07-20 20:40:10,Revolut Bank UAB Vilnius Sucursala București,80.0,169.68
+631,Card Payment,Current,2025-07-20 13:17:49,Camden Market,-8.0,161.68
+632,Card Payment,Current,2025-07-20 01:36:53,Vant de vama,-24.0,137.68
+633,Card Payment,Current,2025-07-20 13:16:31,Daripan Vama Veche,-12.86,124.82
+634,Card Payment,Current,2025-07-20 03:47:10,Vant de vama,-4.0,120.82
+635,Card Payment,Current,2025-07-20 19:49:41,RomPetrol,-18.9,101.92
+636,Card Payment,Current,2025-07-21 23:15:57,MOL,-24.0,77.92
+637,Topup,Current,2025-07-22 14:28:49,Apple Pay top-up by *1781,300.0,377.92
+638,Transfer,Current,2025-07-22 14:29:11,Revolut Bank UAB Vilnius Sucursala București,-5.0,372.92
+639,Transfer,Current,2025-07-22 14:30:52,Revolut Bank UAB Vilnius Sucursala București,-295.0,77.92
+640,Transfer,Current,2025-07-23 12:26:16,Revolut Bank UAB Vilnius Sucursala București,100.0,177.92
+641,Card Payment,Current,2025-07-22 18:43:00,Simco Schwartz,-4.5,173.42
+642,Card Payment,Current,2025-07-22 17:44:13,LUKOIL,-8.49,164.93
+643,Transfer,Current,2025-07-23 20:02:30,Revolut Bank UAB Vilnius Sucursala București,27.0,191.93
+644,Transfer,Current,2025-07-23 20:08:20,Revolut Bank UAB Vilnius Sucursala București,-27.0,164.93
+645,Transfer,Current,2025-07-23 20:11:43,Revolut Bank UAB Vilnius Sucursala București,24.0,188.93
+646,Transfer,Current,2025-07-23 20:19:32,Revolut Bank UAB Vilnius Sucursala București,-58.0,130.93
+647,Transfer,Current,2025-07-23 21:24:17,Revolut Bank UAB Vilnius Sucursala București,-24.0,106.93
+648,Transfer,Current,2025-07-23 22:58:45,Revolut Bank UAB Vilnius Sucursala București,-18.0,88.93
+649,Transfer,Current,2025-07-23 23:11:23,Revolut Bank UAB Vilnius Sucursala București,-10.0,78.93
+650,Transfer,Current,2025-07-23 23:11:34,Revolut Bank UAB Vilnius Sucursala București,-10.0,68.93
+651,Transfer,Current,2025-07-24 01:23:50,Revolut Bank UAB Vilnius Sucursala București,4.0,72.93
+652,Transfer,Current,2025-07-24 01:24:40,Revolut Bank UAB Vilnius Sucursala București,8.0,80.93
+653,Transfer,Current,2025-07-24 01:58:28,Revolut Bank UAB Vilnius Sucursala București,4.4,85.33
+654,Topup,Current,2025-07-24 02:51:39,Apple Pay top-up by *1781,70.0,155.33
+655,Transfer,Current,2025-07-24 02:51:55,Revolut Bank UAB Vilnius Sucursala București,-70.0,85.33
+656,Card Payment,Current,2025-07-23 15:17:25,Curcubeului Market,-31.0,54.33
+657,Card Payment,Current,2025-07-23 20:15:11,Mega Image,-28.79,25.54
+658,Card Payment,Current,2025-07-23 20:52:36,Mega Image,-3.79,21.75
+659,Card Payment,Current,2025-07-24 02:54:46,Bolt,-13.6,8.15
+660,Transfer,Current,2025-07-24 08:34:38,Revolut Bank UAB Vilnius Sucursala București,31.82,39.97
+661,Transfer,Current,2025-07-25 15:12:10,Revolut Bank UAB Vilnius Sucursala București,108.0,147.97
+662,Transfer,Current,2025-07-25 16:54:42,Revolut Bank UAB Vilnius Sucursala București,-60.0,87.97
+663,Transfer,Current,2025-07-25 22:35:27,Revolut Bank UAB Vilnius Sucursala București,10.0,97.97
+664,Transfer,Current,2025-07-25 23:02:48,Revolut Bank UAB Vilnius Sucursala București,15.0,112.97
+665,Transfer,Current,2025-07-25 23:03:12,Revolut Bank UAB Vilnius Sucursala București,-32.3,80.67
+666,Card Payment,Current,2025-07-25 22:35:53,Uber,-10.21,70.46
+667,Topup,Current,2025-07-26 12:12:39,Apple Pay top-up by *1781,100.0,170.46
+668,Transfer,Current,2025-07-26 12:13:01,Revolut Bank UAB Vilnius Sucursala București,-37.0,133.46
+669,Transfer,Current,2025-07-26 12:15:08,Revolut Bank UAB Vilnius Sucursala București,-19.0,114.46
+670,Transfer,Current,2025-07-26 13:14:41,Revolut Bank UAB Vilnius Sucursala București,-31.0,83.46
+671,Transfer,Current,2025-07-26 14:04:14,Revolut Bank UAB Vilnius Sucursala București,6.0,89.46
+672,Card Payment,Current,2025-07-25 17:42:46,Tabac Xpress,-70.2,19.26
+673,Transfer,Current,2025-07-26 19:56:45,Revolut Bank UAB Vilnius Sucursala București,-8.37,10.89
+674,Card Payment,Current,2025-07-26 14:09:20,OMV,-4.89,6.0
+675,Topup,Current,2025-07-27 15:25:06,Apple Pay top-up by *1781,60.0,66.0
+676,Transfer,Current,2025-07-27 15:25:27,Revolut Bank UAB Vilnius Sucursala București,-60.0,6.0
+677,Card Payment,Current,2025-07-26 19:02:03,Inmedio,-6.0,0.0
+678,Topup,Current,2025-07-27 17:38:25,Apple Pay top-up by *1781,60.0,60.0
+679,Transfer,Current,2025-07-27 17:38:48,Revolut Bank UAB Vilnius Sucursala București,-60.0,0.0
+680,Transfer,Current,2025-07-29 23:27:53,Revolut Bank UAB Vilnius Sucursala București,35.0,35.0
+681,Transfer,Current,2025-07-30 00:37:06,Revolut Bank UAB Vilnius Sucursala București,-30.0,5.0
+682,Transfer,Current,2025-07-30 00:40:49,Revolut Bank UAB Vilnius Sucursala București,-5.0,0.0
+683,Transfer,Current,2025-07-31 13:02:57,Revolut Bank UAB Vilnius Sucursala București,100.0,100.0
+684,Transfer,Current,2025-07-31 15:58:34,To investment account,-97.0,3.0
+685,Topup,Current,2025-08-02 13:45:22,Apple Pay top-up by *1781,60.0,63.0
+686,Transfer,Current,2025-08-02 13:47:28,Revolut Bank UAB Vilnius Sucursala București,-32.0,31.0
+687,Card Payment,Current,2025-08-03 00:40:00,LUKOIL,-24.0,7.0
+688,Card Payment,Current,2025-08-04 17:07:21,Carrefour,-5.29,1.71
+689,Transfer,Current,2025-08-07 21:07:44,Revolut Bank UAB Vilnius Sucursala București,14.5,16.21
+690,Topup,Current,2025-08-08 03:46:29,Payment from STEFAN STEFAN CARADEANU,50.0,66.21
+691,Transfer,Current,2025-08-08 14:22:11,Revolut Bank UAB Vilnius Sucursala București,1000.0,1066.21
+692,Transfer,Current,2025-08-08 14:23:31,To investment account,-999.77,66.44
+693,Card Payment,Current,2025-08-08 03:49:04,Untold,-60.0,6.44
+694,Topup,Current,2025-08-09 15:17:05,Apple Pay top-up by *1781,66.32,72.76
+695,Transfer,Current,2025-08-09 15:18:29,Revolut Bank UAB Vilnius Sucursala București,-8.0,64.76
+696,Transfer,Current,2025-08-09 15:18:54,Revolut Bank UAB Vilnius Sucursala București,-40.0,24.76
+697,Transfer,Current,2025-08-09 17:03:19,Revolut Bank UAB Vilnius Sucursala București,-24.76,0.0
+698,Transfer,Current,2025-08-09 20:05:43,Revolut Bank UAB Vilnius Sucursala București,130.0,130.0
+699,Card Payment,Current,2025-08-09 20:08:14,Untold,-130.0,0.0
+700,Exchange,Current,2025-08-11 21:09:12,Exchanged to RON,1008.34,1008.34
+701,Transfer,Current,2025-08-11 22:35:30,To Eftimie Patrick,-93.0,915.34
+702,Card Payment,Current,2025-08-13 16:18:14,Curcubeului Market,-24.0,891.34
+703,Transfer,Current,2025-08-14 13:28:21,Revolut Bank UAB Vilnius Sucursala București,100.0,991.34
+704,Card Payment,Current,2025-08-13 16:04:17,eMAG,-791.12,200.22
+705,Card Payment,Current,2025-08-13 16:13:35,Profi,-11.58,188.64
+706,Transfer,Current,2025-08-14 18:49:50,Revolut Bank UAB Vilnius Sucursala București,-120.0,68.64
+707,Transfer,Current,2025-08-15 20:39:50,Revolut Bank UAB Vilnius Sucursala București,20.0,88.64
+708,Card Payment,Current,2025-08-15 20:39:54,Mega Image,-18.02,70.62
+709,Card Payment,Current,2025-08-15 19:59:27,Curcubeului Market,-24.0,46.62
+710,Transfer,Current,2025-08-16 21:38:28,Revolut Bank UAB,99.99,146.61
+711,Transfer,Current,2025-08-16 21:38:46,Revolut Bank UAB Vilnius Sucursala București,-25.0,121.61
+712,Transfer,Current,2025-08-16 21:38:51,Revolut Bank UAB Vilnius Sucursala București,-1.0,120.61
+713,Transfer,Current,2025-08-16 22:42:26,Revolut Bank UAB Vilnius Sucursala București,10.0,130.61
+714,Transfer,Current,2025-08-16 22:58:46,Revolut Bank UAB Vilnius Sucursala București,-24.0,106.61
+715,Topup,Current,2025-08-18 15:17:52,Apple Pay top-up by *1781,100.0,206.61
+716,Card Payment,Current,2025-08-18 15:27:32,Sakis Market,-35.67,170.94
+717,Card Payment,Current,2025-08-18 15:29:32,Sakis Market,-18.35,152.59
+718,Transfer,Current,2025-08-19 20:25:07,Revolut Bank UAB Vilnius Sucursala București,-50.0,102.59
+719,Card Payment,Current,2025-08-18 21:45:52,Sotiralis Panagiotis,-20.32,82.27
+720,Transfer,Current,2025-08-20 16:02:54,Revolut Bank UAB Vilnius Sucursala București,50.0,132.27
+721,Card Payment,Current,2025-08-20 22:56:26,Rafail Tzortzakakis,-21.9,110.37
+722,Transfer,Current,2025-08-23 20:05:13,Revolut Bank UAB Vilnius Sucursala București,-110.0,0.37
+723,Topup,Current,2025-08-25 20:47:16,Apple Pay top-up by *1781,60.0,60.37
+724,Transfer,Current,2025-08-25 20:47:48,Revolut Bank UAB Vilnius Sucursala București,-36.0,24.37
+725,Transfer,Current,2025-08-26 01:08:02,Revolut Bank UAB Vilnius Sucursala București,38.0,62.37
+726,Transfer,Current,2025-08-26 12:27:40,Revolut Bank UAB Vilnius Sucursala București,36.0,98.37
+727,Transfer,Current,2025-08-26 13:27:59,Revolut Bank UAB Vilnius Sucursala București,-75.0,23.37
+728,Card Payment,Current,2025-08-26 18:35:36,Catena,-3.01,20.36
+729,Card Payment,Current,2025-08-26 13:43:43,Mega Image,-8.42,11.94
+730,Card Payment,Current,2025-08-26 17:18:16,TSV,-7.6,4.34
+731,Transfer,Current,2025-08-27 12:54:30,Revolut Bank UAB Vilnius Sucursala București,100.0,104.34
+732,Card Payment,Current,2025-08-27 22:32:00,Mega Image,-100.0,4.34
+733,Transfer,Current,2025-08-29 10:19:57,Revolut Bank UAB Vilnius Sucursala București,190.0,194.34
+734,Transfer,Current,2025-08-29 20:13:20,Revolut Bank UAB Vilnius Sucursala București,-24.0,170.34
+735,Card Payment,Current,2025-08-29 22:16:21,Profi,-17.49,152.85
+736,Topup,Current,2025-08-30 21:49:48,Apple Pay top-up by *1781,60.0,212.85
+737,Transfer,Current,2025-08-30 21:50:03,Revolut Bank UAB Vilnius Sucursala București,-120.0,92.85
+738,Card Payment,Current,2025-08-30 23:34:30,Mega Image,-10.68,82.17
+739,Card Payment,Current,2025-08-30 18:12:16,Mega Image,-5.09,77.08
+740,Card Payment,Current,2025-08-30 13:55:14,Mega Image,-21.42,55.66
+741,Card Payment,Current,2025-08-30 18:17:59,LUKOIL,-24.0,31.66
+742,Card Payment,Current,2025-08-31 22:52:45,Profi,-11.29,20.37
+743,Transfer,Current,2025-09-01 20:09:00,Revolut Bank UAB Vilnius Sucursala București,18.0,38.37
+744,Transfer,Current,2025-09-03 22:25:30,Revolut Bank UAB Vilnius Sucursala București,10.0,48.37
+745,Transfer,Current,2025-09-04 18:18:21,Revolut Bank UAB Vilnius Sucursala București,18.0,66.37
+746,Card Payment,Current,2025-09-04 02:20:44,Tychi Ametist,-36.0,30.37
+747,Transfer,Current,2025-09-04 23:35:15,Revolut Bank UAB Vilnius Sucursala București,13.0,43.37
+748,Card Payment,Current,2025-09-04 18:24:15,Lidl,-9.24,34.13
+749,Card Payment,Current,2025-09-04 23:33:31,Mega Image,-16.05,18.08
+750,Card Payment,Current,2025-09-04 23:36:23,Mega Image,-5.88,12.2
+751,Transfer,Current,2025-09-05 11:32:36,Revolut Bank UAB Vilnius Sucursala București,200.0,212.2
+752,Transfer,Current,2025-09-05 11:37:49,To zaitun com srl,-150.0,62.2
+753,Card Payment,Current,2025-09-05 21:55:34,Mega Image,-25.02,37.18
+754,Card Payment,Current,2025-09-05 12:59:35,eMAG,-5.99,31.19
+755,Topup,Current,2025-09-06 23:35:33,Apple Pay top-up by *1781,60.0,91.19
+756,Transfer,Current,2025-09-06 23:36:06,Revolut Bank UAB Vilnius Sucursala București,-24.0,67.19
+757,Transfer,Current,2025-09-07 14:41:20,Revolut Bank UAB Vilnius Sucursala București,100.0,167.19
+758,Card Payment,Current,2025-09-06 09:23:11,Profi,-3.99,163.2
+759,Transfer,Current,2025-09-07 22:28:22,Revolut Bank UAB Vilnius Sucursala București,4.0,167.2
+760,Card Payment,Current,2025-09-06 09:57:01,Amparcat.ro,-11.9,155.3
+761,Transfer,Current,2025-09-09 22:38:48,Revolut Bank UAB Vilnius Sucursala București,-38.0,117.3
+762,Card Payment,Current,2025-09-10 15:00:23,Mega Image,-2.49,114.81
+763,Card Payment,Current,2025-09-10 12:12:52,Lidl,-9.17,105.64
+764,Card Payment,Current,2025-09-10 00:23:07,August Pronto,-7.99,97.65
+765,Transfer,Current,2025-09-12 00:06:40,Revolut Bank UAB Vilnius Sucursala București,-8.0,89.65
+766,Topup,Current,2025-09-12 17:54:15,Apple Pay top-up by *1781,60.0,149.65
+767,Transfer,Current,2025-09-12 17:54:31,Revolut Bank UAB Vilnius Sucursala București,-30.0,119.65
+768,Card Payment,Current,2025-09-12 01:24:12,Mega Image,-4.65,115.0
+769,Card Payment,Current,2025-09-12 13:20:02,Mega Image,-42.67,72.33
+770,Card Payment,Current,2025-09-12 00:17:23,Arabian Taste,-32.0,40.33
+771,Transfer,Current,2025-09-13 15:52:25,Revolut Bank UAB Vilnius Sucursala București,30.0,70.33
+772,Transfer,Current,2025-09-13 15:55:13,Revolut Bank UAB Vilnius Sucursala București,-25.0,45.33
+773,Transfer,Current,2025-09-13 20:59:02,Revolut Bank UAB Vilnius Sucursala București,100.0,145.33
+774,Transfer,Current,2025-09-14 02:26:05,Revolut Bank UAB Vilnius Sucursala București,-19.0,126.33
+775,Card Payment,Current,2025-09-14 01:43:27,Tychi Ametist,-18.0,108.33
+776,Card Payment,Current,2025-09-14 02:15:14,Apollo 111,-60.0,48.33
+777,Card Payment,Current,2025-09-14 03:17:53,Apollo 111,-20.0,28.33
+778,Card Payment,Current,2025-09-14 01:59:25,La Papa Hap,-24.0,4.33
+779,Transfer,Current,2025-09-15 22:47:59,Revolut Bank UAB Vilnius Sucursala București,100.0,104.33
+780,Transfer,Current,2025-09-15 23:03:58,Revolut Bank UAB Vilnius Sucursala București,-6.0,98.33
+781,Transfer,Current,2025-09-15 23:50:21,Revolut Bank UAB Vilnius Sucursala București,-24.0,74.33
+782,Transfer,Current,2025-09-16 00:57:26,Revolut Bank UAB Vilnius Sucursala București,-5.0,69.33
+783,Transfer,Current,2025-09-16 00:59:12,Revolut Bank UAB Vilnius Sucursala București,5.0,74.33
+784,Transfer,Current,2025-09-16 00:59:42,Revolut Bank UAB Vilnius Sucursala București,-5.0,69.33
+785,Transfer,Current,2025-09-16 15:16:20,Revolut Bank UAB Vilnius Sucursala București,-5.0,64.33
+786,Transfer,Current,2025-09-16 15:18:13,Revolut Bank UAB Vilnius Sucursala București,8.0,72.33
+787,Card Payment,Current,2025-09-16 01:54:33,Mega Image,-4.19,68.14
+788,Transfer,Current,2025-09-19 17:23:26,Revolut Bank UAB Vilnius Sucursala București,-10.0,58.14
+789,Transfer,Current,2025-09-19 21:26:01,Revolut Bank UAB Vilnius Sucursala București,-7.0,51.14
+790,Transfer,Current,2025-09-19 21:57:54,Revolut Bank UAB Vilnius Sucursala București,-7.0,44.14
+791,Transfer,Current,2025-09-19 22:03:23,Revolut Bank UAB Vilnius Sucursala București,-10.0,34.14
+792,Transfer,Current,2025-09-20 01:03:30,Revolut Bank UAB Vilnius Sucursala București,-19.0,15.14
+793,Transfer,Current,2025-09-21 23:19:35,Revolut Bank UAB Vilnius Sucursala București,1.0,16.14
+794,Card Payment,Current,2025-09-21 23:29:50,Nordsense,-7.0,9.14
+795,Card Payment,Current,2025-09-22 21:36:39,Carrefour,-4.71,4.43
+796,Transfer,Current,2025-09-24 23:39:38,Revolut Bank UAB Vilnius Sucursala București,-4.43,0.0
+797,Transfer,Current,2025-09-25 00:26:31,Revolut Bank UAB Vilnius Sucursala București,18.0,18.0
+798,Transfer,Current,2025-09-25 17:31:29,Revolut Bank UAB Vilnius Sucursala București,100.0,118.0
+799,Card Payment,Current,2025-09-25 11:51:00,METRO,-8.6,109.4
+800,Card Payment,Current,2025-09-26 22:02:41,Mega Image,-7.56,101.84
+801,Transfer,Current,2025-09-27 22:11:33,Revolut Bank UAB Vilnius Sucursala București,-35.84,66.0
+802,Card Payment,Current,2025-09-26 23:24:18,Krem Creations,-66.0,0.0
+803,Transfer,Current,2025-09-29 17:47:26,Revolut Bank UAB Vilnius Sucursala București,21.0,21.0
+804,Transfer,Current,2025-10-01 15:59:26,Revolut Bank UAB Vilnius Sucursala București,30.0,51.0
+805,Exchange,Current,2025-10-01 21:52:19,Exchanged to RON,2193.69,2244.69
+806,Card Payment,Current,2025-10-02 19:58:43,Metrorex,-5.0,2239.69
+807,Transfer,Current,2025-10-04 12:40:24,Revolut Bank UAB Vilnius Sucursala București,5.37,2245.06
+808,Topup,Current,2025-10-05 00:44:01,Apple Pay top-up by *1781,4200.0,6445.06
+809,Transfer,Current,2025-10-05 15:52:22,To Mihai Muntean,-6400.0,45.06
+810,Card Payment,Current,2025-10-04 12:40:24,Mega Image,-10.74,34.32
+811,Topup,Current,2025-10-05 18:43:38,Apple Pay top-up by *1781,60.0,94.32
+812,Transfer,Current,2025-10-05 18:44:00,Revolut Bank UAB Vilnius Sucursala București,-7.0,87.32
+813,Transfer,Current,2025-10-05 18:51:24,Revolut Bank UAB Vilnius Sucursala București,1.0,88.32
+814,Topup,Current,2025-10-08 20:36:15,Apple Pay top-up by *1781,100.0,188.32
+815,Transfer,Current,2025-10-08 20:36:52,Revolut Bank UAB Vilnius Sucursala București,1.0,189.32
+816,Card Payment,Current,2025-10-08 20:38:34,Stay Fit Gym,-189.0,0.32
+817,Transfer,Current,2025-10-09 15:58:18,Revolut Bank UAB Vilnius Sucursala București,24.0,24.32
+818,Transfer,Current,2025-10-09 20:11:56,Revolut Bank UAB Vilnius Sucursala București,100.0,124.32
+819,Transfer,Current,2025-10-11 03:40:08,Revolut Bank UAB Vilnius Sucursala București,35.0,159.32
+820,Transfer,Current,2025-10-11 03:48:16,Revolut Bank UAB Vilnius Sucursala București,-4.91,154.41
+821,Card Payment,Current,2025-10-10 22:49:46,Mega Image,-34.41,120.0
+822,Card Payment,Current,2025-10-10 11:37:00,Trading M2b,-24.0,96.0
+823,Card Payment,Current,2025-10-11 03:47:18,Alex Fresh Food,-34.0,62.0
+824,Topup,Current,2025-10-11 20:47:44,Apple Pay top-up by *1781,60.0,122.0
+825,Transfer,Current,2025-10-11 20:47:56,Revolut Bank UAB Vilnius Sucursala București,-35.0,87.0
+826,Card Payment,Current,2025-10-11 01:03:52,Apollo 111,-19.0,68.0
+827,Card Payment,Current,2025-10-11 00:42:02,Apollo 111,-19.0,49.0
+828,Transfer,Current,2025-10-12 12:34:01,Revolut Bank UAB Vilnius Sucursala București,-16.0,33.0
+829,Card Payment,Current,2025-10-12 11:46:58,Carrefour,-6.59,26.41
+830,Card Payment,Current,2025-10-11 02:53:10,Eurostil Market,-24.0,2.41
+831,Transfer,Current,2025-10-17 22:39:54,Revolut Bank UAB Vilnius Sucursala București,56.0,58.41
+832,Transfer,Current,2025-10-18 12:35:22,Revolut Bank UAB Vilnius Sucursala București,-24.0,34.41
+833,Card Payment,Current,2025-10-18 14:36:35,Issa Supermarket,-6.59,27.82
+834,Transfer,Current,2025-10-19 17:02:25,Revolut Bank UAB Vilnius Sucursala București,100.0,127.82
+835,Card Payment,Current,2025-10-20 07:58:49,PENNY,-24.0,103.82
+836,Card Payment,Current,2025-10-21 18:05:52,Curcubeului Market,-24.0,79.82
+837,Transfer,Current,2025-10-22 08:28:29,Revolut Bank UAB Vilnius Sucursala București,-15.0,64.82
+838,Card Payment,Current,2025-10-22 18:16:11,Alecia StilFrutti,-24.0,40.82
+839,Transfer,Current,2025-10-23 22:13:30,Revolut Bank UAB Vilnius Sucursala București,-6.0,34.82
+840,Transfer,Current,2025-10-23 22:44:17,Revolut Bank UAB Vilnius Sucursala București,-25.0,9.82
+841,Card Payment,Current,2025-10-23 15:09:43,Fast Vending Solution,-6.0,3.82
+842,Card Payment,Current,2025-10-23 21:25:15,STB Bucuresti,-3.0,0.82
+843,Transfer,Current,2025-10-25 16:12:55,Revolut Bank UAB Vilnius Sucursala București,100.0,100.82
+844,Transfer,Current,2025-10-25 16:13:42,Revolut Bank UAB Vilnius Sucursala București,100.0,200.82
+845,Transfer,Current,2025-10-25 17:02:05,Revolut Bank UAB Vilnius Sucursala București,10.0,210.82
+846,Transfer,Current,2025-10-25 19:48:20,Revolut Bank UAB Vilnius Sucursala București,98.0,308.82
+847,Transfer,Current,2025-10-25 23:31:49,Revolut Bank UAB Vilnius Sucursala București,-30.0,278.82
+848,Transfer,Current,2025-10-26 04:20:38,Revolut Bank UAB Vilnius Sucursala București,-7.0,271.82
+849,Card Payment,Current,2025-10-26 02:45:52,Limoncello Club,-25.0,246.82
+850,Card Payment,Current,2025-10-26 04:24:15,Arabian Taste,-32.0,214.82
+851,Card Payment,Current,2025-10-26 19:53:13,Mega Image,-21.27,193.55
+852,Card Payment,Current,2025-10-26 02:15:05,Beluga Music & Cocktails,-40.0,153.55
+853,Card Payment,Current,2025-10-26 15:14:15,Metrorex,-5.0,148.55
+854,Card Payment,Current,2025-10-27 19:20:44,MOL,-23.99,124.56
+855,Card Payment,Current,2025-10-27 19:55:40,PENNY,-3.65,120.91
+856,Card Payment,Current,2025-10-29 11:06:29,Standard Food,-9.18,111.73
+857,Card Payment,Current,2025-10-29 13:12:42,Fast Vending Solution,-6.0,105.73
+858,Transfer,Current,2025-10-30 22:14:36,Revolut Bank UAB Vilnius Sucursala București,100.0,205.73
+859,Transfer,Current,2025-10-30 22:19:28,Revolut Bank UAB Vilnius Sucursala București,100.0,305.73
+860,Card Payment,Current,2025-10-29 10:46:08,STB Bucuresti,-3.0,302.73
+861,Card Payment,Current,2025-10-30 12:23:27,Carrefour,-3.69,299.04
+862,Transfer,Current,2025-10-31 21:48:06,Revolut Bank UAB Vilnius Sucursala București,-41.0,258.04
+863,Transfer,Current,2025-11-01 02:23:53,Revolut Bank UAB Vilnius Sucursala București,-20.0,238.04
+864,Transfer,Current,2025-11-01 15:20:37,Revolut Bank UAB Vilnius Sucursala București,-4.0,234.04
+865,Transfer,Current,2025-11-02 01:01:40,Revolut Bank UAB Vilnius Sucursala București,15.0,249.04
+866,Transfer,Current,2025-11-02 01:01:42,Revolut Bank UAB Vilnius Sucursala București,15.0,264.04
+867,Transfer,Current,2025-11-02 01:02:09,Revolut Bank UAB Vilnius Sucursala București,15.0,279.04
+868,Card Payment,Current,2025-11-01 01:28:53,Smart Vending Solutions,-6.0,273.04
+869,Card Payment,Current,2025-11-02 00:22:48,MOL,-26.18,246.86
+870,Card Payment,Current,2025-11-02 01:12:14,OMV,-50.41,196.45
+871,Transfer,Current,2025-11-03 12:35:29,Revolut Bank UAB Vilnius Sucursala București,-22.0,174.45
+872,Card Payment,Current,2025-10-31 16:02:59,STB Bucuresti,-3.0,171.45
+873,Transfer,Current,2025-11-04 11:02:17,Revolut Bank UAB Vilnius Sucursala București,-6.5,164.95
+874,Transfer,Current,2025-11-05 12:56:15,Revolut Bank UAB Vilnius Sucursala București,4.01,168.96
+875,Transfer,Current,2025-11-07 14:20:27,Revolut Bank UAB Vilnius Sucursala București,60.0,228.96
+876,Transfer,Current,2025-11-07 19:02:20,Revolut Bank UAB Vilnius Sucursala București,-24.0,204.96
+877,Card Payment,Current,2025-11-07 14:25:39,Petrom,-200.23,4.73
+878,Transfer,Current,2025-11-08 15:03:43,Revolut Bank UAB Vilnius Sucursala București,-4.0,0.73
+879,Transfer,Current,2025-11-08 23:52:47,Revolut Bank UAB Vilnius Sucursala București,9.0,9.73
+880,Transfer,Current,2025-11-10 14:54:32,Revolut Bank UAB Vilnius Sucursala București,-9.0,0.73
+881,Transfer,Current,2025-11-10 16:14:43,Revolut Bank UAB Vilnius Sucursala București,40.0,40.73
+882,Transfer,Current,2025-11-10 20:32:32,Revolut Bank UAB Vilnius Sucursala București,0.27,41.0
+883,Topup,Current,2025-11-10 22:09:54,Apple Pay top-up by *6660,200.0,241.0
+884,Card Payment,Current,2025-11-10 16:15:19,Trading M2b,-7.0,234.0
+885,Card Payment,Current,2025-11-10 20:45:18,Mega Image,-24.0,210.0
+886,Card Payment,Current,2025-11-11 06:12:33,Stay Fit Gym,-189.0,21.0
+887,Card Payment,Current,2025-11-11 12:24:20,Trading M2b,-10.0,11.0
+888,Card Payment,Current,2025-11-10 19:53:44,Metrorex,-10.0,1.0
+889,Transfer,Current,2025-11-12 09:55:29,Revolut Bank UAB Vilnius Sucursala București,8.0,9.0
+890,Transfer,Current,2025-11-12 09:55:33,Revolut Bank UAB Vilnius Sucursala București,2.0,11.0
+891,Card Payment,Current,2025-11-12 10:35:16,Fast Vending Solution,-6.0,5.0
+892,Transfer,Current,2025-11-13 17:42:51,Revolut Bank UAB Vilnius Sucursala București,-5.0,0.0
+893,Transfer,Current,2025-11-15 18:00:52,Revolut Bank UAB Vilnius Sucursala București,100.0,100.0
+894,Card Payment,Current,2025-11-16 10:35:04,Gloria Jean's Coffees,-21.0,79.0
+895,Transfer,Current,2025-11-17 12:26:57,Revolut Bank UAB Vilnius Sucursala București,-2.0,77.0
+896,Card Payment,Current,2025-11-16 13:16:47,Carul Cu Kustos,-20.0,57.0
+897,Card Payment,Current,2025-11-17 13:30:50,Trading M2b,-7.0,50.0
+898,Card Payment,Current,2025-11-17 08:19:22,Trei Amigos Together Srl,-8.0,42.0
+899,Card Payment,Current,2025-11-17 16:05:23,DMD Coffee & Vending,-4.0,38.0
+900,Card Payment,Current,2025-11-17 16:03:10,DMD Coffee & Vending,-4.0,34.0
+901,Transfer,Current,2025-11-18 09:10:14,Revolut Bank UAB Vilnius Sucursala București,11.0,45.0
+902,Transfer,Current,2025-11-18 09:10:20,Revolut Bank UAB Vilnius Sucursala București,2.0,47.0
+903,Card Payment,Current,2025-11-17 12:40:10,Universitatea POLITEHNICA din București,-21.5,25.5
+904,Card Payment,Current,2025-11-18 19:30:57,Lidl,-5.38,20.12
+905,Card Payment,Current,2025-11-18 21:44:57,Carrefour,-4.09,16.03
+906,Card Payment,Current,2025-11-19 13:07:57,Nova prompt,-3.5,12.53
+907,Transfer,Current,2025-11-20 13:43:57,Revolut Bank UAB Vilnius Sucursala București,2.0,14.53
+908,Transfer,Current,2025-11-20 16:36:02,Revolut Bank UAB Vilnius Sucursala București,18.0,32.53
+909,Card Payment,Current,2025-11-20 16:07:05,DMD Coffee & Vending,-3.0,29.53
+910,Transfer,Current,2025-11-21 19:18:49,Revolut Bank UAB Vilnius Sucursala București,100.0,129.53
+911,Card Payment,Current,2025-11-21 21:15:54,Mega Image,-17.49,112.04
+912,Card Payment,Current,2025-11-21 21:19:27,Mega Image,-10.98,101.06
+913,Card Payment,Current,2025-11-21 20:28:56,Carrefour,-3.69,97.37
+914,Card Payment,Current,2025-11-22 10:00:23,AIO Supermarket,-20.5,76.87
+915,Card Payment,Current,2025-11-22 10:08:05,Gloria Jean's Coffees,-23.5,53.37
+916,Transfer,Current,2025-11-23 19:42:26,Revolut Bank UAB Vilnius Sucursala București,-8.0,45.37
+917,Card Payment,Current,2025-11-23 00:11:02,Mega Image,-24.0,21.37
+918,Transfer,Current,2025-11-24 10:23:59,Revolut Bank UAB Vilnius Sucursala București,4.0,25.37
+919,Transfer,Current,2025-11-24 15:02:07,Revolut Bank UAB Vilnius Sucursala București,-4.0,21.37
+920,Transfer,Current,2025-11-24 15:03:38,Revolut Bank UAB Vilnius Sucursala București,4.0,25.37
+921,Card Payment,Current,2025-11-24 08:22:05,DMD Coffee & Vending,-3.0,22.37
+922,Card Payment,Current,2025-11-24 21:31:17,Annabella,-20.0,2.37
+923,Transfer,Current,2025-11-25 21:54:57,Revolut Bank UAB Vilnius Sucursala București,28.0,30.37
+924,Transfer,Current,2025-11-25 21:56:15,Revolut Bank UAB Vilnius Sucursala București,28.0,58.37
+925,Transfer,Current,2025-11-25 22:33:29,Revolut Bank UAB Vilnius Sucursala București,28.0,86.37
+926,Card Payment,Current,2025-11-26 00:02:06,La Mia Musica Restaurant,-20.0,66.37
+927,Card Payment,Current,2025-11-26 00:37:56,La Mia Musica Restaurant,-20.0,46.37
+928,Card Payment,Current,2025-11-26 01:24:24,La Mia Musica Restaurant,-20.0,26.37
+929,Transfer,Current,2025-11-27 16:44:05,Revolut Bank UAB Vilnius Sucursala București,8.0,34.37
+930,Transfer,Current,2025-11-28 11:16:55,Revolut Bank UAB Vilnius Sucursala București,56.0,90.37
+931,Card Payment,Current,2025-11-28 11:09:43,Alecia StilFrutti,-4.5,85.87
+932,Card Payment,Current,2025-11-28 11:13:34,Alecia StilFrutti,-24.0,61.87
+933,Card Payment,Current,2025-11-28 11:44:59,Mega Image,-24.0,37.87
+934,Topup,Current,2025-11-29 22:08:20,Apple Pay top-up by *6660,100.0,137.87
+935,Transfer,Current,2025-11-30 20:42:57,Revolut Bank UAB Vilnius Sucursala București,9.0,146.87
+936,Card Payment,Current,2025-11-30 21:40:08,Mega Image,-6.39,140.48
+937,Card Payment,Current,2025-11-30 17:15:46,Mega Image,-5.29,135.19
+938,Transfer,Current,2025-11-29 22:12:44,International Transfer to Universitatea Nationala de Stiinte si Tehnologie Politehnica Bucuresti,-100.0,35.19
+939,Transfer,Current,2025-12-02 19:27:55,Revolut Bank UAB Vilnius Sucursala București,100.0,135.19
+940,Card Payment,Current,2025-11-28 11:51:35,Sky 24,-12.0,123.19
+941,Card Payment,Current,2025-12-03 10:23:54,Bufallo Top Star Srl,-5.0,118.19
+942,Card Payment,Current,2025-12-03 13:32:42,Nova prompt,-6.0,112.19
+943,Card Payment,Current,2025-12-03 13:33:12,Nova prompt,-3.5,108.69
+944,Transfer,Current,2025-12-04 16:14:43,Revolut Bank UAB Vilnius Sucursala București,100.0,208.69
+945,Transfer,Current,2025-12-05 19:40:13,Revolut Bank UAB Vilnius Sucursala București,200.0,408.69
+946,Card Payment,Current,2025-12-05 22:19:40,Mega Image,-110.77,297.92
+947,Card Payment,Current,2025-12-05 16:31:30,MOL,-23.99,273.93
+948,Card Payment,Current,2025-12-05 18:35:43,Fast Vending Solution,-4.0,269.93
+949,Card Payment,Current,2025-12-05 16:01:31,Fast Vending Solution,-4.0,265.93
+950,Transfer,Current,2025-12-07 00:30:47,Revolut Bank UAB Vilnius Sucursala București,24.0,289.93
+951,Card Payment,Current,2025-12-05 23:06:35,Spalatorie Auto Alexander,-13.32,276.61
+952,Card Payment,Current,2025-12-07 00:31:08,MOL,-56.47,220.14
+953,Card Payment,Current,2025-12-06 22:56:47,Gigi Burger,-60.0,160.14
+954,Card Payment,Current,2025-12-06 00:11:31,OMV,-40.99,119.15
+955,Card Payment,Current,2025-12-06 15:40:46,Profi,-24.0,95.15
+956,Card Payment,Current,2025-12-08 21:05:15,Bolt,-10.0,
+957,Card Payment,Current,2025-12-08 15:25:49,Trading M2b,-7.0,88.15
+958,Card Payment,Current,2025-12-08 21:17:09,Bolt,-14.74,73.41
+959,Card Payment,Current,2025-12-08 12:19:34,Simigeria Matei,-7.99,65.42
+960,Card Payment,Current,2025-12-09 09:10:52,Fast Vending Solution,-4.0,
+961,Card Payment,Current,2025-12-08 08:16:12,Fast Vending Solution,-4.0,61.42
+962,Transfer,Current,2025-12-10 07:23:29,Revolut Bank UAB Vilnius Sucursala București,100.0,161.42
+963,Transfer,Current,2025-12-10 10:50:01,Revolut Bank UAB Vilnius Sucursala București,-4.0,157.42
+964,Card Payment,Current,2025-12-09 09:11:22,Fast Vending Solution,-4.0,153.42
+965,Card Payment,Current,2025-12-10 15:59:22,Nova prompt,-6.5,
+966,Transfer,Current,2025-12-10 16:29:45,Revolut Bank UAB Vilnius Sucursala București,-40.0,113.42
+967,Topup,Current,2025-12-10 22:14:11,Apple Pay top-up by *6660,319.0,432.42
+968,Transfer,Current,2025-12-10 22:19:07,Revolut Bank UAB Vilnius Sucursala București,16.0,448.42
+969,Transfer,Current,2025-12-10 22:19:12,Revolut Bank UAB Vilnius Sucursala București,4.0,452.42
+970,Card Payment,Current,2025-12-10 16:03:38,Trei Amigos Together Srl,-15.0,437.42
+971,Card Payment,Current,2025-12-10 15:59:42,Nova prompt,-6.5,430.92
+972,Card Payment,Current,2025-12-10 22:31:49,eMAG,-422.72,8.2
+973,Card Payment,Current,2025-12-11 17:49:18,Simigeria Matei,-6.99,1.21
+974,Topup,Current,2025-12-12 13:07:50,Apple Pay top-up by *6660,130.0,131.21
+975,Transfer,Current,2025-12-12 13:08:07,Revolut Bank UAB Vilnius Sucursala București,-51.0,80.21
+976,Card Payment,Current,2025-12-12 22:10:31,Froo,-48.0,32.21
+977,Transfer,Current,2025-12-13 12:22:09,Revolut Bank UAB Vilnius Sucursala București,-3.0,29.21
+978,Card Payment,Current,2025-12-13 14:09:39,Nova prompt,-6.5,22.71
+979,Transfer,Current,2025-12-15 17:17:39,Revolut Bank UAB Vilnius Sucursala București,34.0,56.71
+980,Transfer,Current,2025-12-15 19:53:28,Revolut Bank UAB Vilnius Sucursala București,-2.2,54.51
+981,Topup,Current,2025-12-15 22:17:30,Apple Pay top-up by *6660,575.0,629.51
+982,Transfer,Current,2025-12-15 22:17:43,Revolut Bank UAB Vilnius Sucursala București,-575.0,54.51
+983,Card Payment,Current,2025-12-15 16:21:05,Ned 2000 Com Impex Srl,-10.0,44.51
+984,Card Payment,Current,2025-12-15 15:48:05,Latte Coffee To Go,-6.0,38.51
+985,Transfer,Current,2025-12-17 23:37:01,Revolut Bank UAB Vilnius Sucursala București,-32.5,6.01
+986,Topup,Current,2025-12-20 14:59:40,Apple Pay top-up by *6405,100.0,106.01
+987,Transfer,Current,2025-12-20 14:59:56,Revolut Bank UAB Vilnius Sucursala București,-50.0,56.01
+988,Transfer,Current,2025-12-21 03:40:31,Revolut Bank UAB Vilnius Sucursala București,-16.0,40.01
+989,Card Payment,Current,2025-12-20 16:56:07,MOL,-23.99,16.02
+990,Transfer,Current,2025-12-21 13:24:27,Revolut Bank UAB Vilnius Sucursala București,15.0,31.02
+991,Card Payment,Current,2025-12-21 05:21:16,Alex Fresh Food,-6.0,25.02
+992,Transfer,Current,2025-12-22 22:32:31,Revolut Bank UAB Vilnius Sucursala București,200.0,225.02
+993,Transfer,Current,2025-12-23 11:41:18,Revolut Bank UAB Vilnius Sucursala București,100.0,325.02
+994,Transfer,Current,2025-12-23 15:43:30,Revolut Bank UAB Vilnius Sucursala București,6.55,331.57
+995,Transfer,Current,2025-12-24 01:30:54,Revolut Bank UAB Vilnius Sucursala București,-28.0,303.57
+996,Card Payment,Current,2025-12-23 23:16:52,La Papa Hap,-26.0,277.57
+997,Card Payment,Current,2025-12-23 15:42:47,Carrefour,-6.55,271.02
+998,Card Payment,Current,2025-12-23 23:52:11,Eventbook,-30.0,241.02
+999,Card Payment,Current,2025-12-24 02:04:01,Socului kebap,-41.0,200.02
+1000,Card Payment,Current,2025-12-24 15:05:59,Jumbo,-47.43,152.59
+1001,Card Payment,Current,2025-12-24 13:47:34,Nala Iris Titan,-100.7,51.89
+1002,Transfer,Current,2025-12-26 02:40:39,Revolut Bank UAB Vilnius Sucursala București,-50.0,1.89
+1003,Transfer,Current,2025-12-29 23:16:17,Revolut Bank UAB Vilnius Sucursala București,38.0,39.89
+1004,Transfer,Current,2025-12-30 11:18:23,Revolut Bank UAB Vilnius Sucursala București,100.0,139.89
+1005,Transfer,Current,2025-12-30 15:24:18,International Transfer to Universitatea Nationala de Stiinte si Tehnologie Politehnica Bucuresti,-100.0,39.89
+1006,Transfer,Current,2025-12-31 21:43:22,Revolut Bank UAB Vilnius Sucursala București,-31.0,8.89
+1007,Transfer,Current,2026-01-11 01:37:53,Revolut Bank UAB Vilnius Sucursala București,15.0,23.89
+1008,Transfer,Current,2026-01-11 23:58:45,Revolut Bank UAB Vilnius Sucursala București,100.0,123.89
+1009,Transfer,Current,2026-01-12 09:28:37,Revolut Bank UAB Vilnius Sucursala București,-5.0,118.89
+1010,Transfer,Current,2026-01-12 09:28:51,Revolut Bank UAB Vilnius Sucursala București,3.0,121.89
+1011,Transfer,Current,2026-01-12 09:29:18,Revolut Bank UAB Vilnius Sucursala București,2.0,123.89
+1012,Transfer,Current,2026-01-12 09:34:06,Revolut Bank UAB Vilnius Sucursala București,-30.0,93.89
+1013,Transfer,Current,2026-01-12 09:35:12,Revolut Bank UAB Vilnius Sucursala București,30.0,123.89
+1014,Transfer,Current,2026-01-12 11:34:25,Revolut Bank UAB Vilnius Sucursala București,134.99,258.88
+1015,Card Payment,Current,2026-01-12 12:15:46,Mira Romfruct,-35.5,223.38
+1016,Card Payment,Current,2026-01-12 16:54:44,Trading M2b,-12.5,210.88
+1017,Card Payment,Current,2026-01-12 08:26:49,Trei Amigos Together Srl,-8.0,202.88
+1018,Card Payment,Current,2026-01-12 14:48:11,Eur Comtur,-5.0,197.88
+1019,Card Payment,Current,2026-01-12 21:23:15,Metrorex,-5.0,192.88
+1020,Card Payment,Current,2026-01-13 23:31:43,Mega Image,-44.47,148.41
+1021,Transfer,Current,2026-01-14 12:52:49,Balance migration to another region or legal entity,-136.41,12.0
+1022,Transfer,Current,2026-01-14 12:52:49,Balance migration to another region or legal entity,136.41,148.41
+1023,Card Payment,Current,2026-01-14 09:44:27,Mira Romfruct,-5.0,143.41
+1024,Card Payment,Current,2026-01-14 16:11:10,Nova prompt,-6.5,136.91
+1025,Card Payment,Current,2026-01-14 11:40:24,Latte Coffee To Go,-7.0,129.91
+1026,Card Payment,Current,2026-01-15 15:08:46,Curcubeului Market,-24.0,105.91
+1027,Card Payment,Current,2026-01-15 16:02:55,Mira Romfruct,-24.0,81.91
+1028,Transfer,Current,2026-01-16 15:30:47,Transfer to Revolut user,-10.0,71.91
+1029,Card Payment,Current,2026-01-15 15:27:37,Metrorex,-5.0,66.91
+1030,Card Payment,Current,2026-01-15 19:37:02,Metrorex,-5.0,61.91
+1031,Transfer,Current,2026-01-16 23:36:27,Transfer from Revolut user,10.0,71.91
+1032,Card Payment,Current,2026-01-16 18:03:06,Mega Mall Bucuresti,-3.0,68.91
+1033,Transfer,Current,2026-01-18 14:17:50,Transfer from Revolut user,191.0,259.91
+1034,Card Payment,Current,2026-01-18 14:55:20,Mega Image,-8.49,251.42
+1035,Card Payment,Current,2026-01-18 21:12:29,Smash Me,-98.0,153.42
+1036,Card Payment,Current,2026-01-19 12:21:12,Trading M2b,-24.0,129.42
+1037,Card Payment,Current,2026-01-19 13:30:03,Trading M2b,-12.5,116.92
+1038,Card Payment,Current,2026-01-19 10:07:33,Trei Amigos Together Srl,-13.0,103.92
+1039,Card Payment,Current,2026-01-19 16:57:34,PENNY,-11.42,92.5
+1040,Card Payment,Current,2026-01-19 07:38:27,Metrorex,-5.0,87.5
+1041,Card Payment,Current,2026-01-19 20:52:41,Metrorex,-5.0,82.5
+1042,Transfer,Current,2026-01-21 16:48:06,Transfer to Revolut user,-31.0,51.5
+1043,Topup,Current,2026-01-22 12:18:46,Payment from ELENA-MIOARA BAIDAN,130.0,181.5
+1044,Card Payment,Current,2026-01-21 18:48:28,Gloria Jean's Coffees,-45.0,136.5
+1045,Transfer,Current,2026-01-22 19:58:43,Transfer from ALEXANDRA-NICOLETA PALCU,100.0,236.5
+1046,Card Payment,Current,2026-01-24 15:36:14,Arabian Taste,-32.0,204.5
+1047,Card Payment,Current,2026-01-24 15:30:31,Mega Image,-17.47,187.03
+1048,Card Payment,Current,2026-01-25 16:07:05,Curcubeului Market,-24.0,163.03
+1049,Transfer,Current,2026-01-27 14:10:37,Transfer from Revolut user,25.01,188.04
+1050,Card Payment,Current,2026-01-27 09:25:33,Mega Image,-25.0,163.04
+1051,Topup,Current,2026-01-29 11:38:01,Payment from ELENA-MIOARA BAIDAN,130.0,293.04
+1052,Transfer,Current,2026-01-29 12:55:33,To Razvan Mihai Pica,-86.0,207.04
+1053,Transfer,Current,2026-01-31 12:42:44,Transfer from Revolut user,5.0,212.04
+1054,Transfer,Current,2026-01-31 12:57:13,Transfer to Revolut user,-37.0,175.04
+1055,Transfer,Current,2026-01-31 19:32:01,Transfer from ALEXANDRA-NICOLETA PALCU,100.0,275.04
+1056,Card Payment,Current,2026-01-31 12:42:29,Mega Image,-15.73,259.31
+1057,Card Payment,Current,2026-01-31 10:48:30,DMD Coffee & Vending,-3.0,256.31
+1058,Topup,Current,2026-02-03 11:35:17,Payment from ELENA-MIOARA BAIDAN,130.0,386.31
+1059,Transfer,Current,2026-02-04 15:11:54,Transfer to MARIN STEFAN-CARADEANU,-55.0,331.31
+1060,Transfer,Current,2026-02-04 15:53:24,Transfer to Revolut user,-48.5,282.81
+1061,Transfer,Current,2026-02-04 17:48:44,Transfer to Revolut user,-20.0,262.81
+1062,Topup,Current,2026-02-05 11:48:40,Payment from ELENA-MIOARA BAIDAN,130.0,392.81
+1063,Card Payment,Current,2026-02-04 14:59:47,Uni door expert,-39.0,353.81
+1064,Card Payment,Current,2026-02-04 10:30:30,Gmn Birotica,-5.0,348.81
+1065,Transfer,Current,2026-02-06 23:21:02,Transfer to Revolut user,-23.0,325.81
+1066,Transfer,Current,2026-02-07 00:11:56,Transfer to Revolut user,-9.0,316.81
+1067,Transfer,Current,2026-02-07 17:55:19,Transfer from ALEXANDRA-NICOLETA PALCU,100.0,416.81
+1068,Card Payment,Current,2026-02-07 16:17:05,MM Partners Pub,-3.0,413.81
+1069,Card Payment,Current,2026-02-08 00:25:16,MOL,-24.99,388.82
+1070,Transfer,Current,2026-02-08 20:53:19,Transfer to Revolut user,-25.0,363.82
+1071,Card Payment,Current,2026-02-08 15:15:29,Gloria Jean's Coffees,-21.0,342.82
+1072,Transfer,Current,2026-02-09 22:30:40,Transfer to Revolut user,-25.0,317.82
+1073,Card Payment,Current,2026-02-09 14:38:07,Arabian Taste,-40.0,277.82
+1074,Card Payment,Current,2026-02-07 00:37:35,LUKOIL,-25.0,252.82
+1075,Card Payment,Current,2026-02-09 14:33:45,Mega Image,-5.37,247.45
+1076,Card Payment,Current,2026-02-09 22:30:01,Mega Image,-12.78,234.67
+1077,Card Payment,Current,2026-02-09 09:34:52,MOL,-24.99,209.68
+1078,Transfer,Current,2026-02-10 14:25:43,Transfer to Revolut user,-36.0,173.68
+1079,Transfer,Current,2026-02-10 17:20:27,Transfer from Revolut user,6.0,179.68
+1080,Card Payment,Current,2026-02-10 19:01:12,Froo,-25.0,154.68
+1081,Card Payment,Current,2026-02-10 10:59:52,Mega Image,-8.26,146.42
+1082,Card Payment,Current,2026-02-10 16:52:47,Mega Image,-22.32,124.1
+1083,Transfer,Current,2026-02-11 11:31:00,Transfer to ALEXANDRU-RAZVAN TUDORICA,-80.0,44.1
+1084,Card Payment,Current,2026-02-11 15:39:28,Alex Fresh Food,-31.0,13.1
+1085,Card Payment,Current,2026-02-11 13:03:21,Mega Image,-10.37,2.73
+1086,Transfer,Current,2026-02-14 15:01:50,Transfer from Revolut user,80.0,82.73
+1087,Transfer,Current,2026-02-14 17:56:17,Transfer to Revolut user,-20.0,62.73
+1088,Transfer,Current,2026-02-14 18:16:19,Transfer from Revolut user,20.0,82.73
+1089,Transfer,Current,2026-02-14 21:42:10,Transfer to Revolut user,-20.0,62.73
+1090,Transfer,Current,2026-02-16 19:42:03,Transfer to Revolut user,-25.0,37.73
+1091,Transfer,Current,2026-02-16 19:42:16,Transfer to MARIN STEFAN-CARADEANU,-20.0,17.73
+1092,Topup,Current,2026-02-16 19:47:26,Apple Pay top-up by *6660,60.0,77.73
+1093,Transfer,Current,2026-02-16 19:47:37,Transfer to Revolut user,-40.0,37.73
+1094,Topup,Current,2026-02-16 21:14:59,Apple Pay top-up by *6660,70.0,107.73
+1095,Transfer,Current,2026-02-16 21:15:15,Transfer to Revolut user,-107.73,0.0
+1096,Exchange,Current,2026-02-17 17:41:28,Exchanged to RON,84.48,84.48
+1097,Transfer,Current,2026-02-17 21:25:08,Transfer from Revolut user,146.0,230.48
+1098,Transfer,Current,2026-02-18 11:54:01,Transfer to Revolut user,-100.0,130.48
+1099,Transfer,Current,2026-02-19 19:05:05,Transfer from ALEXANDRA-NICOLETA PALCU,100.0,230.48
+1100,Transfer,Current,2026-02-19 22:08:49,Transfer from Revolut user,105.0,335.48
+1101,Transfer,Current,2026-02-19 23:31:24,Transfer from MARIN STEFAN-CARADEANU,6.0,341.48
+1102,Card Payment,Current,2026-02-19 11:11:43,Dr.Max,-6.49,334.99
+1103,Card Payment,Current,2026-02-19 22:06:34,Mega Image,-16.47,318.52
+1104,Card Payment,Current,2026-02-19 23:30:18,Mega Image,-7.68,310.84
+1105,Card Payment,Current,2026-02-21 21:56:50,Mega Image,-34.1,276.74
+1106,Transfer,Current,2026-02-22 19:23:48,Transfer from Revolut user,34.0,310.74
+1107,Card Payment,Current,2026-02-22 19:24:03,McDonald's,-60.5,250.24
+1108,Card Payment,Current,2026-02-23 12:11:13,Trei Amigos Together Srl,-8.0,242.24
+1109,Topup,Current,2026-02-24 16:40:32,Payment from ELENA-MIOARA BAIDAN,130.0,372.24
+1110,Card Payment,Current,2026-02-23 12:18:37,Facultatea de Automatică şi Calculatoare,-17.0,355.24
+1111,Card Payment,Current,2026-02-24 20:54:42,Ponis Trading Srl,-13.0,342.24
+1112,Card Payment,Current,2026-02-24 20:22:08,Better Burger Society,-62.0,280.24
+1113,Transfer,Current,2026-02-25 14:07:20,Transfer to Revolut user,-20.0,260.24
+1114,Transfer,Current,2026-02-25 14:40:40,Transfer from Revolut user,20.0,280.24
+1115,Card Payment,Current,2026-02-25 14:36:51,Trading M2b,-25.0,255.24
+1116,Card Payment,Current,2026-02-25 21:36:47,Mega Image,-4.19,251.05
+1117,Transfer,Current,2026-02-26 16:28:51,Transfer from Revolut user,240.0,491.05
+1118,Card Payment,Current,2026-02-25 14:03:49,Facultatea de Automatică şi Calculatoare,-23.0,468.05
+1119,Card Payment,Current,2026-02-26 12:40:41,Orient Shaorma,-33.0,435.05
+1120,Card Payment,Current,2026-02-26 18:33:17,Lidl,-2.29,432.76
+1121,Card Payment,Current,2026-02-26 15:02:24,RomPetrol,-25.0,407.76
+1122,Transfer,Current,2026-02-27 19:54:31,Transfer to Revolut user,-7.5,400.26
+1123,Transfer,Current,2026-02-27 19:54:51,Transfer to Revolut user,-5.0,395.26
+1124,Transfer,Current,2026-02-27 22:52:33,Transfer from Revolut user,50.0,445.26
+1125,Transfer,Current,2026-02-28 02:02:10,Transfer from Revolut user,1.45,446.71
+1126,Transfer,Current,2026-02-28 02:02:17,Transfer from Revolut user,10.0,456.71
+1127,Transfer,Current,2026-02-28 02:02:35,Transfer from Revolut user,9.0,465.71
+1128,Transfer,Current,2026-02-28 03:03:55,Transfer to Revolut user,-11.0,454.71
+1129,Card Payment,Current,2026-02-27 22:51:50,Mega Image,-101.91,352.8
+1130,Card Payment,Current,2026-02-27 14:34:50,Trading M2b,-25.0,327.8
+1131,Card Payment,Current,2026-02-27 14:03:14,Trei Amigos Together Srl,-15.0,312.8
+1132,Card Payment,Current,2026-02-27 19:00:19,SuperCom Food Service,-37.8,275.0
+1133,Card Payment,Current,2026-02-27 14:39:36,Trei Amigos Together Srl,-8.0,267.0
+1134,Card Payment,Current,2026-02-28 09:25:24,Mega Image,-8.49,258.51
+1135,Card Payment,Current,2026-02-28 09:24:55,Uber,-22.94,235.57
+1136,Transfer,Current,2026-03-01 16:28:26,Transfer from ALEXANDRA-NICOLETA PALCU,100.0,335.57
+1137,Card Payment,Current,2026-03-01 19:31:03,MOL,-24.99,310.58
+1138,Transfer,Current,2026-03-02 10:32:32,Transfer to MARIN STEFAN-CARADEANU,-8.0,302.58
+1139,Transfer,Current,2026-03-02 10:57:57,To Remus Rughinis,-10.0,292.58
+1140,Transfer,Current,2026-03-02 16:06:14,Transfer to Revolut user,-59.0,233.58
+1141,Card Payment,Current,2026-03-02 16:21:05,Simigeria Matei,-7.99,225.59
+1142,Card Payment,Current,2026-03-02 21:05:25,Mega Image,-31.5,194.09
+1143,Topup,Current,2026-03-03 11:08:57,Payment from ELENA-MIOARA BAIDAN,130.0,324.09
+1144,Card Payment,Current,2026-03-02 07:17:19,Metrorex,-5.0,319.09
+1145,Card Payment,Current,2026-03-02 16:27:06,Metrorex,-5.0,314.09
+1146,Card Payment,Current,2026-03-04 11:41:27,Fast Vending Solution,-4.0,310.09
+1147,Card Payment,Current,2026-03-04 09:43:41,Trading M2b,-25.0,285.09
+1148,Card Payment,Current,2026-03-04 20:22:34,McDonald's,-10.0,275.09
+1149,Card Payment,Current,2026-03-04 14:23:27,Agrolegum Conserv,-29.0,246.09
+1150,Card Payment,Current,2026-03-04 16:20:25,Fast Vending Solution,-6.0,240.09
+1151,Transfer,Current,2026-03-05 17:25:35,Transfer to Revolut user,-25.0,215.09
+1152,Card Payment,Current,2026-03-05 17:04:27,Nova prompt,-6.0,209.09
+1153,Card Payment,Current,2026-03-05 17:04:06,Nova prompt,-3.5,205.59
+1154,Card Payment,Current,2026-03-05 14:29:36,Fast Vending Solution,-4.0,201.59
+1155,Card Payment,Current,2026-03-05 07:19:18,Alecia StilFrutti,-4.5,197.09
+1156,Card Payment,Current,2026-03-06 10:39:02,Fast Vending Solution,-6.0,191.09
+1157,Card Payment,Current,2026-03-05 12:07:51,Facultatea de Automatică şi Calculatoare,-32.0,159.09
+1158,Card Payment,Current,2026-03-07 23:07:58,Mega Image,-15.07,144.02
+1159,Card Payment,Current,2026-03-07 23:49:14,Mega Image,-25.0,119.02
+1160,Card Payment,Current,2026-03-09 11:27:29,Alecia StilFrutti,-4.5,
+1161,Card Payment,Current,2026-03-09 12:26:15,Facultatea de Automatică şi Calculatoare,-12.0,
+1162,Card Payment,Current,2026-03-09 12:47:03,Fast Vending Solution,-4.0,
+1163,Card Payment,Current,2026-03-09 15:45:50,Megapan,-8.0,

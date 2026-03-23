@@ -4,8 +4,43 @@ export default function DropBox() {
   const [isDragging, setIsDragging] = useState<boolean>(false);
   const [selectedFile, setSelectedFile] = useState<File | null>(null);
   const [error, setError] = useState<string>("");
+  const [uploading, setUploading] = useState<boolean>(false);
+  const [uploadStatus, setUploadStatus] = useState<
+    "idle" | "success" | "error"
+  >("idle");
 
   const fileInputRef = useRef<HTMLInputElement>(null);
+
+  const uploadFile = async (file: File) => {
+    const csvFormData = new FormData();
+    csvFormData.append("file", file, file.name);
+
+    setUploading(true);
+    setUploadStatus("idle");
+    setError("");
+
+    try {
+      const response = await fetch(
+        "http://127.0.0.1:8000/user/upload_document",
+        {
+          method: "POST",
+          body: csvFormData,
+        },
+      );
+      console.log(response);
+      if (!response.ok) {
+        throw new Error(`Server error: ${response.status}`);
+      }
+
+      setUploadStatus("success");
+      setSelectedFile(null);
+    } catch (err) {
+      setError(err instanceof Error ? err.message : "Upload failed.");
+      setUploadStatus("error");
+    } finally {
+      setUploading(false);
+    }
+  };
 
   const validateAndProcessFile = (files: FileList) => {
     setError("");
@@ -23,6 +58,7 @@ export default function DropBox() {
 
     if (file.type === "text/csv" || file.name.endsWith(".csv")) {
       setSelectedFile(file);
+      uploadFile(file);
     } else {
       setError("Invalid file type. Please load a .csv file.");
       setSelectedFile(null);
@@ -59,29 +95,6 @@ export default function DropBox() {
     if (fileInputRef.current) {
       fileInputRef.current.click();
     }
-  };
-
-  const uploadData = async () => {
-    const csvFormData = new FormData();
-    if (!selectedFile) {
-      return;
-    }
-    csvFormData.append("file", selectedFile, selectedFile.name);
-
-    const response = await fetch("http://localhost:8000/user/upload_document", {
-      method: "POST",
-      body: csvFormData,
-    });
-
-    console.log(response);
-  };
-
-  const handleUpload = async () => {
-    if (!selectedFile) {
-      return;
-    }
-
-    await uploadData();
   };
 
   return (
@@ -123,7 +136,14 @@ export default function DropBox() {
           </p>
         )}
       </div>
-      {selectedFile && <button onClick={handleUpload}>Upload</button>}
+      {uploading && (
+        <p style={{ color: "gray", marginTop: "10px" }}>Uploading...</p>
+      )}
+      {uploadStatus === "success" && (
+        <p style={{ color: "green", marginTop: "10px" }}>
+          File uploaded successfully!
+        </p>
+      )}
     </>
   );
 }

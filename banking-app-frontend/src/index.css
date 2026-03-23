@@ -1,1 +1,63 @@
 @import "tailwindcss";
+@import "react-calendar/dist/Calendar.css";
+
+html,
+body {
+  background-color: #eef0f6;
+}
+
+.react-calendar {
+  width: 100% !important;
+  border: none !important;
+  font-family: inherit !important;
+  background: white !important;
+}
+
+.react-calendar__tile {
+  border-radius: 0.5rem !important;
+  font-size: 0.875rem !important;
+  color: #475569 !important;
+  padding: 0.5rem 0.25rem !important;
+}
+
+.react-calendar__tile--now {
+  background: #e2e8f07f !important;
+}
+
+.react-calendar__tile:enabled:hover {
+  background: #eff6ff !important;
+}
+
+.react-calendar__tile--active,
+.react-calendar__tile--active:enabled:hover {
+  background: #b5b8bc63 !important;
+}
+
+.react-calendar__navigation {
+  padding: 0 0.5rem !important;
+  margin-bottom: 0 !important;
+}
+
+.react-calendar__navigation__label {
+  font-weight: 600 !important;
+  color: #334155 !important;
+  font-size: 0.875rem !important;
+  border-radius: 0.5rem !important;
+}
+
+.react-calendar__navigation button {
+  border-radius: 0.5rem !important;
+  color: #64748b !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  min-height: 2rem !important;
+}
+
+.react-calendar__navigation button:enabled:hover {
+  background: #f1f5f9 !important;
+}
+
+.react-calendar__navigation__prev2-button,
+.react-calendar__navigation__next2-button {
+  display: none !important;
+}

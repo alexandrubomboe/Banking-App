@@ -23,6 +23,8 @@ def yearly_or_monthly(df: pd.DataFrame, type: bool, timeframe: str):
 			"Money Received": received_month
 		}).fillna(0)
 		summary_month.index = summary_month.index.astype(str)
+		if timeframe not in summary_month.index:
+			return pd.DataFrame()
 		monthly = summary_month.loc[[timeframe]]
 		return monthly
 	else: # yearly charts
@@ -36,6 +38,8 @@ def yearly_or_monthly(df: pd.DataFrame, type: bool, timeframe: str):
 		}).fillna(0)
 
 		summary_year.index = summary_year.index.astype(str)
+		if timeframe not in summary_year.index:
+			return pd.DataFrame()
 		yearly = summary_year.loc[[timeframe]]
 		return yearly
 

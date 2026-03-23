@@ -1,11 +1,27 @@
 from fastapi import FastAPI, HTTPException, UploadFile, File
+from fastapi.responses import FileResponse
 import io
 import pandas as pd
 import os
 import cleaning_data
+from fastapi.middleware.cors import CORSMiddleware
 
 temp_file = "temp_file.csv"
 app = FastAPI()
+
+app.add_middleware(
+	CORSMiddleware,
+	allow_origins=["*"],
+	allow_credentials=True,
+	allow_methods=["*"],
+	allow_headers=["*"],
+)
+
+@app.get('/user/file')
+def get_file():
+	if not os.path.exists(temp_file):
+		raise HTTPException(status_code=404, detail="No file uploaded yet.")
+	return FileResponse(temp_file, media_type='text/plain', filename='temp_file.csv')
 
 # get the file from the frontend
 @app.post('/user/upload_document')
@@ -18,7 +34,7 @@ async def upload_doc(file: UploadFile = File(...)):
 	return {'message': 'File saved!'}
 
 # total money sent/received each month/year
-@app.post('/user/transfers/{type}/{timeframe}')
+@app.get('/user/transfers/{type}/{timeframe}/')
 def sent_received(type: bool, timeframe: str):
 	if not os.path.exists(temp_file):
 		raise HTTPException(status_code=400, detail="Upload a file!")
@@ -41,7 +57,7 @@ def sent_received(type: bool, timeframe: str):
 		}
 	}
 
-@app.post('/user/spendings/{type}/{timeframe}')
+@app.get('/user/spendings/{type}/{timeframe}')
 def spendings(type: bool, timeframe: str):
 	if not os.path.exists(temp_file):
 		raise HTTPException(status_code=400, detail="Please upload a file!")
